@@ -1,0 +1,170 @@
+_,‘,_‘-\
+/ﬁm—": गा येंघद
+s = \ '{‘
+
+£ दी शा रह
+5 दि रहें सैं/उपिए पे ७...८८+
+F न
+0, लि : o T i
+
+s व ety
+Office of the Contraller General of Patents, Designs and Trade Marks,
+S M Road, Antop Hills,
+Mumbai — 400037
+Subject: Red Hat's comments on the Draft Patent Manual
+Dear Sir/Madam,
+This is with reference to the Draft Patent Manual, on which your office has invited comments. On behalf of
+Red Hat, the world's leading open source software company, 1 hersby sulwmit our comments on the
+software patents secition of the Draft. Our comments are divided into two parts
+1. Software patents in India as per Clause 2(E) of the Indian Paient As
+2. Open Source Software and software patents from a national perspective
+
+Software patents in India as per Clause 3(k) of the Indian Patent Act
+
+We find that the Draft Fatent Manual seeks to introduse software patents and we heligve that this दि not in
+consonance with the current legal situation India where Clause 2(1) of the Indian Patent Act clearly says,
+
+“A mathematical or buziness methad पक a computer programme per se o algorithms are not
+patentable”,
+
+H
+
+www:in.redhat.com
+
+पाए may recall that the Patent Amendment Act 2005 sought i introduce software patents. The
+amendment propasad in the Patznt Amendment Act 2005 for Clause 3(F) was,
+
+“a computer programme par 56 other than its technical application to industry (न a combination with
+hardware; a mathematical method or a busingss method or algorithms.”
+
+However, this amendment was rejectad by the Indian Parliament, which chose to retain Clause आधे as it is.
+On reviewing the एवं Patent Manual, we find that it secks o mabs technical applications of software
+patentablz, As you can see from the abave, this approach was e-plicitly rejected by the Indian Parliament
+The relevant section of the Draft says
+
+Draft Manual 4,11}
+
+"—_—___‘ -
+
+4. A mathematical method iz one which is carried out an numbers and provides a result in
+numerical form (the mathematical mathod or algorithm therefore being mersly an
+abstract concept prescribing how to operatz on the numbers) and not patentalile.
+However, itz application may well be patentabls, for ewamplz, की Vicom/Computer-
+relatzd invention [1957] 1 QJEPQ 14 (T202/24) the invention concernad a mathematical
+method for manipulating data reprasenting an image, leading to an enhanced digital
+image. Claims 0 a methad of digitally filtering data performad छा a conventional
+
+redhat.
+
+Red Hat india Pvt. Ltd. Regus, Level 2, Elzgance, Mathura Road, 13505, New Dalhi - 110025, T+91-11-4060 1234 F +21-1 1-1060 123
+
+
+www.in.redhat.com
+
+®
+
+general purpose computer were rejectad, since those claims were held to define an
+abstract concept not distinguished from है mathematical method. Howeaver, claims to a
+method of image processing which used the mathematical method to operate on
+numbers representing an image can be allowedl. The reasoning was that the image
+processing performed was a technical (i.2. non- e-cluded) process which related to
+technical quality of the image and that a claim directzd to a technical process in which
+the method used does not seek protection for the mathematical method as such
+Therefore the allowable claims as such went beyond a mathematical method
+
+Open Source Software and software patents from a national perspective
+
+We would alsa like to add that the Government of India has identified open saurce software as a strategic
+
+(00 for e-governance and for bridging the digital divide in India. The Department of 1T's 11" Five Year Plan
+(2007-2012) says,
+
+“If computer adoption has व reach from current 195 of populaticon to say 505 in next five vears, we
+have to geriously pursue some other route, iz, that एव Fres/Open Sourzs Soffware (FQSS).”
+
+The [lational Enowledge Commission, in & repart submitted to the Prime Minister of India, says,
+
+“Because of the enormous size and soope of the E-governance affart in India and because of the
+availability of glabally: recognized sofiware talent of Indians, we muzt actively encouradss open
+source soffwars implementations and open standeards wherever possible.”
+
+Open Source Software is built in a collaborative manner by developers spread across the warld who share
+source code and build upan each other's warks. In his book, “The Succezs of Open Saurce,” the nated
+political scientist, Prof. Steven Weber, Director of the Institute of International Studies, Liniversity of
+California, Berksley, says
+
+The canventional nation of properly is the right 60 exclude. Froperly in open source 15 configursd
+fundamentally around the right to distribute, nat 6 exclude
+
+The GHU General Public License, which is used by almost 60 percent of open source software a-plicitly
+states that if you madify and redistribuie source ciodle licensed under the GPL, vou have to share the
+resultant changes with others. This legal framewaort: has lzad [लि enormous innovation and technology
+coltaboration an a scale that's never been withessed hefore. For example, the Linu= operating system,
+which began life in September 1991 has now grown intd mare than 100 million lines of code.
+
+The freedom to modify the source code and share the changes has benefited India immensely. Many
+linguistic groups have localized the Graphical User Interface of वा, into mare than 11 Indian languadgy
+so that non-English speakbers can alse benefit from the power of digital technalogy. Open Saurcs Softwars
+like Orea help the visually handicapped use computers with ease and zkill. Many national mission-mode
+projects in e-governance make e-tensive use of open source software. In almost all fields of IT, open
+source software has emerged as 8 powerful alternative to expensive, proprictary software, which have
+restrictive licensing schemas. Developing countrizs, across the world have therefore embraced open
+sourca software with open arms in light of its strategic long-term benafits,
+
+
+www.in.redhat.com
+
+@v ®
+
+Itis for these reasons that the respected technologist and past president of ndia, Dr. APJ Abdul Kalam,
+said,
+
+“In India, apen source code softwars will have o come and stay in a hic way for the benefit of our
+billion peopla.”
+
+Open source softwars is ane of the most dynamic, innovative sectors of the global economy, but the patent
+system is a costly hindrance to open source innavation. We believe that although the patent system was
+created (0 foster innovation, [5 simply not an engine for innovation for open source. Software patents weare
+barely recognized when open source began, and 50 the hope of obtaining a patent did not mativate the first
+developers. Those pioneers were generally opposed to software patents. The open, collabarative activity at
+the heart of open source is at odds with the patent system, which e«cludes the public from making, using or
+selling a patented invention. Open source developers डर: to contribute cods B the community — not 10
+exclude others from using the code.
+
+Today the  patent systerm is, if anything, a hindrance (0 apen sour is, if anything, a hindrance to open source. Develapers face the risk: that the
+original code thay have written in good faith could be deemed to infringe an =Tisting software patent. | g Software patent. 15
+impossible to rulz out this possibility, because patents cannot be efficiently searched. Software patents are
+diffizult to interpret, aven for e<perts incomputer science and software enginesring. E-perts often disagrae
+as to whether ते particular patent claim covers a particular program. Thus, arish ए litigation &-ist for every
+open source project, and the potential cost of patent litigation can be ruinons, especially for startup
+companies. '
+
+Given the litigation risk, some open source companies, including Rad निया, aciuire patznts for the sole
+purpose of asserting them defensively in the avent they are faced with a future lawsuit. Degpits the v
+hindrances of the glubal patent system, open source continues o expand at an exponential ratz. Ong can
+
+only imagine how that a-pansion would accelerate if the braking effect of the patent system were (लिए,
+
+Given the fact that (@) that Indian legislators have clearly chosen to eclude software from the list of
+
+patentable inventions (0) that open source software is important to India's long-term strategic interests, and
+
+() there is a growing global outcry against software patents, we herashy submit that the Draft Patent
+
+Manual should 02 amended o reflect the will and intent of the Indian Parliament.
+e
+
+I will be happy to discuss this issus further and elaborate upon the open 3oUrce community's viswpaint on
+
+software patents, if necessary. ‘
+
+‘:’cu.n/l:s sincerely,
+
+Venkatesh Ha/lharan,"*":
+
+Head — Open Source Affairs,
+Red Hat India Pvt. Ltd.
+Mobile: 093242-22263
+
+E-mail: venky@redhat.com
+

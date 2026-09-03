@@ -1,0 +1,540 @@
+Corrections / Suggestions from RANBAXY
+
+Corrections / Suggestions in the New Draft Manual for Patent Practice
+- and Procedure -India
+
+Chapter I: Introductiokn
+
+No suggestions/corrections
+
+Chapter ॥॥5: Preamble and definitions
+
+Page 17, section 2.38
+
+The term “discovery” has been used as synonymous with the term “invention”
+Page 17, section 2.3.6 (ia) should be (i)
+
+Chapter 111: Patentable Subject Matter
+Page 22, section 3.2.2
+
+Another subheading [घी may also be added on prior use as one the criteria 10
+assess novelty ‘ ः
+
+Section 3.3.9 should be rephrased/drafted 10 have a meaningful interpretation.
+
+Page 24, Section 3.4.1 The use of word “infringement” should not be used
+Instead, it can be written that “.... subject matter if performed, would fall in the
+scope of the claims of the patent” ः
+
+Page 28, Section 3.5.1:---The wordings "prior invention” may replaced with the
+phrase “subject matter in the prior art”.
+
+Page 28, Section 3.5.2 says, “In the case of sufficiency, the skilled person is taken
+10 be trying to understand what the author meant.” 'Author’ is not a typical term
+used in patent context and it should be inventor or patentee.
+
+Page 28, Section 3.6.1
+
+Prior Public Use is limited to the use of the invention in India. The scope can be
+extended including the use of ferm “elsewhere” such as on page 21 Section
+3.2.1; Section 3.3.5 related to “State ए the Art”; on page 176, Section 25 (k).
+
+Page 30, Section 3.6.11 The cited case Ram Narain Kher v. Ambassador
+Industries. is not a reference for “prior use”
+
+Page 1 of 12
+
+
+Page 32, Section 3.7
+
+Prior claiming is a provision in the Act, where a later patent publication (X) can
+act as an anticipatory prior art had it been filed prior 10 the filing date of the
+application in question (Y). It is similar to 102(e) in the US context, but with a
+critical difference i.e., if ‘X' has to act as a prior पा, the invention claimed in 'Y’
+should also have been claimed in ‘X’ - disclosure found only in the specification
+is not considered. This prior claiming concept raises many questions as to how
+the Examiner approaches such a prior art and they are not addressed in this
+draft. For example
+
+Prior claiming is only for novelty issue (anticipation), not for the inventive
+step issue. The entire discussion/explanation in the draft about the
+anticipation is restricted only 10 the disclosure in specification (description
+or examples) and it is silent about the disclosure in claims. Even if the
+inventions of ‘X' and 'Y’ are substantially the same, the claiming would be
+different in both the patents/applications as it depends on various factors
+and they would have been drafted by different persons/organizations. In
+this context, how will the broad claims fenced around the inventions be
+considered by the Examiner for establishing anfticipation2 Wil the
+examiner consider single claim or multiple claims of ‘X’ against the claims
+of 'Y'2 Will the examiner look into the specification along with the claims
+for finding any anticipation? What is the role of ‘inevitable formation'
+(inherency in the US context) in case of prior claiming?
+
+Draft is also not clear about the dates of the ‘X' and 'Y’, which are eligible for
+determining whether one patent/application can be a prior art for another
+patent/application. ॥ is indeed complex as there can be multiple qualifying
+dates for PCT applications taking Indian priority or outside priority, patent of
+additions, etc. In case of US, the USPTO has developed a clear flow chart for
+determining the 102(e) date
+
+(hitp://www.uspto.gov/web/offices/dcom/olia/aipa/102eflowchart.pdf). Similar
+
+chart or guideline is absolutely necessary for patent examination procedure in
+India as well.
+
+Page 32, Section 3.7.1 ही) x and ४ should be in capital letters.
+Page 32, Section 3.9.1
+
+The statute defines inventive step as follows:
+
+Page 2 of 12
+
+
+"Inventive step" means a feature of an invention that involves technical
+advance as compared 10 the existing knowledge or having economic
+significance or both and that makes the invention not obvious to a person
+skilled in the art. [Section 2(1)(ja}].
+
+The scope of the term “economic significance” has not been elaborated as to
+what contribution the concerned invention must make in terms of economic
+value. The cited cases explain inventive step with regard to conventional
+obviousness test. If the real case examples are not available then this term can
+be explained with hypothetical situations so 0510 get a fair idea about an
+invention having economic significance.
+
+Page 34, Section 3.9.2 can be removed as the main heading Section 3.9 deals
+with Inventive Step.
+
+Page 36, Section 3.11
+
+Subheadings [6] and (h) are identical and in this case the latter one can 06
+removed.
+
+Subheadings (८) and (f) are to be compore‘d to see if these are contradictory.
+Page 42, Section 3.16.1 - |
+Subheading (c) and (d) ता6 ५ता16 and only one may 06 retained.
+
+Section 3.17.1 subheading (पी with distance as the indicator for assessing
+inventive step for the subject matter of the invention and the prior art, the
+assessment of inventive step looks ambiguous. Perhaps, this can be explained
+meaningfully with an example or it should be replaced with the word
+“difference”.
+
+Page 49, Section 3.24.4
+
+The cited case is c:ppropurio’re for novelty rather than for assessing inventive step.
+Chapter |: Inventions Not Patentable |
+
+Page 54 Sections 3(d) and (e)
+
+Words are missing and typographical errors 10 be removed given 05 below:
+
+d] the mere discovery of a new form of a substance which does not result
+in the enhancement of a the known efficacy of that substance or the
+mere discovery of a new property or new use for a known substance or of
+
+Page 3of 12
+
+
+the mere use of a known process, machine or apparatus unless such
+known process results in a new product or employs at least one new
+reactant.
+
+Explanation: For the purpose of this clause, salts, easters esters, ethers,
+polymorphs, metabolites, pure form, particle size, isomers mixtures of
+isomers, complexes, combinations and other derivatives of known
+substance shall be considered 10 be the same substance, unless they
+differ significantly in properties with regard to efficacy
+
+(d){e) a substance obtained by a mere admixture resulting only in the
+aggregation of the properties of the components thereof or a process for
+producing such substance;
+
+Further the numbering of the subsections needs to be corrected.
+Page 58, Section 4.5.3
+
+The examiner makes comparison with regard to properties or
+enhancement of
+
+efficacy between the known substance and the new form of known
+substance.
+
+In case the new form is further converted into another new form, the
+comparison is made between the already existing form and another new
+form
+
+but not between the base compound and another new form.
+
+[Emphasis added]. The above paragraph is not clear.
+
+The term “another new form” can be amended 10 “new polymorph of new
+form”.
+
+Let us consider the below hypothetical situation:
+
+Amlodipine base [known substance] is known in the art and the applicant files a
+patent application claiming amiodipine besylate [new form of known substance
+- salt] showing enhancement of efficacy.
+
+Now if the applicant file an application on amiodipine tosylate [another new
+form] which was prepared by converting amiodipine besylate, then as per the
+above guideline, the examiner need 10 make a comparison with regard 10
+properties or enhancement of efficacy between amlodipine besylate [new form
+of known substance - salt] and amlodipine tosylate [another new form] and not
+between Amlodipine base [known substance] and amlodipine tosylate [another
+new form] and also not between all the three.
+
+Page 4 of 12
+
+
+If the term “another new form” is amended to "new polymorph of new form”
+then the guideline would be in-line.
+
+Now let us ook in the following Hypothetical Situation:
+
+Amlodipine base [known substance] is known in the art and the applicant ॥॥65 a
+patent application claiming amlodipine besylate [new form of known substance
+- saltf] showing enhancement of efficacy.
+
+Now the applicant files an application on amlodipine besylate polymorph A
+[new polymorph of new form] which was prepared by converting amlodipine
+besylate [new form of known substance], then as per the above guideline, the
+examiner need to make a comparison with regard to properties or
+enhancement of efficacy between amlodipine besylate [new form of known
+substance] and amlodipine besylate polymorph A [new polymorph of new
+form] and not between Amlodipine base [known substance] and amlodipine
+besylate polymorph A [new polymorph of new form]
+
+According to Chapter lll, 3.1.1, the criteria for an invention 10 be patentable in
+India are
+
+पी) it must be novel
+(i) it must have an inventive step
+(i) it must be capable of industrial application
+
+Further, the invention should not fall under any of the categories of “Inventions
+Not Patentable” mentioned under sections (3) and {4) of the Patents Act, 1970.
+
+Thus, for an invention to be patentable in India it has to pass novelty test
+inventive step test, industrial application test and, in addition, section (3) and
+section (4) test — specifically section 3 [पी and section 3 (e)
+
+Section 3(d): We observe that the discussion of Section 3(d) in the Draft Manual
+has three major inconsistencies as mentioned below:
+
+1) From the statute and Chapter ॥, 3.1.1 of the Draft Manual, it is clear that 3(d)
+test is additionally required apart from novelly, inventive step and industrial
+application. However, we observe that the parts in Draft Manual related 10
+Section 3(d) discuss merely about the novelty and inventive step criteria. Section
+3{d) has been elaborated in Chapter IV, 4.5.1 10 4.5.16, wherein Para 4.5.7 is
+critical as it gives guidelines with respect 10 the ‘forms’ of the known substances
+recited in Section 3(d) (salts, polymorphs, metabolites, etc). Ironically, the entire
+discussion in Para 4.5.7 is only into the novelty and/of inventive step criteria and
+away from the context of Section 3(d).
+
+Page 5 of 12
+
+
+2) Section 3(d) inherently has another connotation in it. ॥ says that mere
+discovery of new form of a known substance, which does nof result in the
+enhancement of the known efficacy, is not patentable. if it is framed in the
+other way, the discovery of a new form of a known substance, which results in
+the enhancement of the known efficacy, is patentable (provided it satisfies the
+novelty, inventive step and application criteria). Explanation of Section 3(d) in
+Para 4.5.2 in the Draft Manual mentions that new forms shall also be considered
+as the known substance unless they differ in properties with regard to efficacy.
+However, the specific guidelines provided in Para 4.5.7 of the Draft Manual
+appears to eliminate certain new forms of the known substances from
+patentability even if they have enhanced efficacy.
+
+3) The guidelines provided in Chapter IV, 4.5.7 discuss about the patentability of
+processes of preparing new forms (especially polymorphs, hydrates and purified
+compounds) and is silent about the patentability of the product per se. We
+understand that process of preparing so-called new forms are patentable in
+India even before the introduction of Section 3(d) in the Act. Section 3(d) has
+been introduced and exists to determine the patentability of the product, not
+the process. We are not able to grasp why the chapter of Draft Manual
+dedicated 10 Section 3{d) discusses about the patentability of the process, not
+exactly the product.
+
+We are substantiating the above comments in the following paragraphs:
+
+4.5.7 (i) Isomers: This Para defines the isomers and patentability of the isomers is
+discussed explicitly only in the context of novelty and inventive
+step/obviousness. There is no mentioning about efficacy at all.
+
+4.5.7 (ii) Steroisomers: Para 4.5.7 ही] says, “In a case where an (S}-enantiomer of
+a compound, capable of exhibiting better efficacy over the (R)-enantiomer, for
+instance producing enhanced anti-diabetic effects is claimed, wherein the said
+claim is not allowable when the same chemical compound possessing anti-
+diabetic property is known from the prior पा." This can reasonably be
+interpreted in such a way that the enantiomers are not patentable even if the
+efficacy criterion in satisfied — which is confradictory to Section 3(d).
+
+4.5.7 ही) Homologues: This Para defines the homologues and patentability of the
+homologues is discussed explicilly only in the context of inventive
+step/obviousness. There is no mentioning about efficacy at all.
+
+Page 6 of 12
+
+
+4.5.7 (iv) Polymorphs: This Para defines the polymorphs and says that polymorphs
+are not patentable without any mention about the efficacy criterion. Further,
+patentability of the polymorphs is discussed only in terms of process of preparing
+the polymorphs. ~
+
+We also noted that this Para mentions, “Such forms can be deemed within the
+prior art, and therefore, non-patentable if they were inevitably obtained
+following the process of the basic patent on the active ingredient or if they were
+covered by a previous product patent.” The underlined portion appearing in
+the Draft seems 10 be a strange concept in determining the patentability of
+polymorphs. For example, if the ‘previous product patent’ has a claim, which
+‘covers' “A compound of Formula X and its salts and polymorphs thereof’, then
+according to Chapter 4.5.7 [iv), the ‘polymorphs thereof' covered by the
+‘previous product patent’ cannot be patentable. It is possible for an Examiner or
+opponent to quote Chapter 4.5.7 (iv) 10 argue that any polymorph of Formula X
+is not patentable (despite having efficacy, novelty, inventive step and
+application) since it is ‘covered’ by a previous product patent. The quoted line
+also implies that the polymorph in question is not patentable व it is inevitably
+obtained following the process of the basic patent. The use of the term ‘basic
+patent’ in this context is misleading because there could be many other prior art
+publications (not only the basic patent), which may inevitably produce the
+polymorph in question.
+
+4.5.7 (v) Metabolite: Para 4.5.7 (v) of the draft clearly rules out, "A metabolite is
+not patentable since giving the drug to a patient naturally and inevitably results
+in formation of that metabolite.” This Para discusses only about novelty and
+there is no mentioning of efficacy at all. Does it mean that metabolites are not
+at all patentable or they are patentable व the metabolite claim is phrased with
+novelty tags like ‘isolated’ or ‘pure’'e If metabolite is not at all patentable
+despite having enhanced efficacy, then the draft guideline is contradictory to
+Section 3(d).
+
+4.5.7 (vi) Prodrugs: This Para defines the prodrugs and patentability of the
+prodrugs is discussed explicitly only in the context of inventive aspects. There is
+110 mentioning about efficacy at all. :
+
+4.5.7 (vii) Hydrates and other substances: This Para defines the hydrates, acid
+
+addition salts and other derivatives and patentability is discussed only in terms of
+process, not in terms of product. There is no mentioning about efficacy at all.
+
+Page 7 of 12
+
+
+4.5.7 (vii) Purification compounds: The title of this Para itself is misleading — we
+
+believe it must be ‘purified compounds’ or ‘purification of compounds'.
+(‘Purification compounds’' means the compounds, which are used for
+purification.) This Para discusses patentability only in terms of purification
+process, not in terms of product. There is no mentioning about efficacy at all.
+
+Combinations: While the statute states that combination of active ingredients
+may be patentable if these combinations show efficacy, the manual has not
+provided any guidance to deal with inventions related 10 these combinations.
+Chapter ॥, Section 3.13, page 38 provides guidance for inventions dealing with
+combinations in terms of assessing inventive step. Guidance in relation to
+Section 3(d) for these combinations is required.
+
+Section 3fe): This section should not be considered for judging the patentability
+of pharmaceutical compositions which are mixtures of active ingredient and
+pharmaceutically acceptable excipients. The preparation of a pharmaceutical
+composition involves complicated scientific experimentation and is not mere
+admixing or aggregation of properties of individual components. For example,
+any pharmacevutical composition is required 10 be stable for an intended period
+of use. The state of the art is not predictive regarding this aspect and involves
+innovation at every stage of development of these compositions. Not every
+pharmaceutical excipient can be formulated with every active ingredient.
+Another example can be that of extended release pharmaceutical
+compositions which are still more complicated as these involve another factor
+i.e. control of the release of the active ingredient in such a way that the
+therapeutic effect of the dosage 15 optimum and at the same fime improve
+patient compliance which can be either due to reduced associated side
+effects or reduced frequency of dosing or both.
+
+Chapter V: Applications
+
+Page 112, ltemiiii:
+Excerpt from this item:
+
+Therefore, wherever possible, claims should not contain “Multiple independent
+claims in any one category, even if only one inventive concept is present”.
+
+Under these circumstances, a genus, a sub-genus, species and specific
+compounds claims, व claimed independently, may not be allowed. Examiner
+may rejects or may ask the applicant to merge all in one independent claim,
+which are sometimes not advisable / acceptable for New Chemical Enfities,
+and therefore, it may be deleted or modified.
+
+Page 117, Item 5.8.10 (Markush - Type Claims):
+
+Page 8 of 12
+
+
+Following points may also be highlighted:
+
+a. Examples depicting the Markush type claims drawn to compounds per se.
+To make it more clear and understandable, the manual should give a
+suitable example of a Markush-type claim drawn to the compound per
+se. Example: X-Y, wherein X is aromatic radical; Y is selected from
+halogen, hydroxy, amino, alky! etc.
+
+b. Examination procedures / Searching requirement for Markush type claims
+drawn to compounds per se. The manual should also highlight whether
+the patent office will do the prior art search for the whole genus claimed
+or the genus of interest. There should be some suggestions in the manuail
+as how the examination proceeding may take place for the Markush-type
+claims drawn to the genus per se. it should be clear whether the
+examination will be for the genus as claimed or for the elected species or
+both.
+
+c. Unity of Invention व Markush structure covering thousands of compounds
+has been claimed. Markush-type claim covers hundreds and thousands of
+compounds and the compounds within the genus may lack unity and
+therefore there may be some guidelines in the manual to establish the
+unity of invention within the genus claimed.
+
+Page 119, item ५४) (0):
+
+The term “modified drug” may be defined so as to make this clear and
+understandable .
+
+Page 86, Section 5.2.4
+“required 10 shall give” should be "required to give”.
+
+Page 96, Section 5.3.5, line 12 should read "filing of application in India the
+requirement of under section 135", '
+
+Page 97, Section 5.3.6
+
+“Pr4ovisions” should be “Provisions”.
+Page 108, Section 5.7.3, subheading (८)
+“dale" should be “date".
+
+Page 121, Section 5.9.7, subheading (i)
+
+“Ddescription” should be “Description”.
+
+Page 9 of 12
+
+
+Page 130, item (d){i) line 8
+“basis fee” should be “basic ५७",
+
+Page 138, Section 5.10.17, subheading (i), line 3
+“whichever earlier” should be “whichever is earlier”
+
+Chapter VI: Publication and Examination of Applications
+
+Page 140: Section "11" should be "1 1TA"
+Page 141: 'Rule 24': Request for publication - should be 'रए1& 24A'.
+
+Page 142 Rule 27 line 4: .....filed in respect of the application may be inspected
+al the appropriate office........ ‘al’ should be 'af’
+
+Page 143 6.1.5 2८] (j): '/' after poreﬁhn.’r application should be deleted.
+Page 143-144 6.1.6: (iv) is missing the paragraphs {i)-(v)
+
+Page 144 6.2: Section '11' should be '11B'
+
+Page 145 Rule 24 B (1): numbering of paragraphs (i}-(v) is not correct
+
+Page 147 paragraph (§): ...... and may refuse to grant the patent] unless the
+.......... T should be deleted.
+
+Page 148 Section 15 paragraph: ....... require the application, specification or
+the. Other documents, 05 the case may be............. The full stop should be
+deleted.
+
+Page 150 6.2.21i): "96501 interested” (section 2(1)9(1)....c.c....... (' should be
+deleted.
+
+Page 152 b) Screening: numbering of a)-e) is not proper.
+Page 153 f) ii.: (section 13(1)(b).......... ' should be deleted.
+Page 153 1 iii.: (section 13(2).......... ‘(" should be deleted.
+Page 156 viii.: FER (S. 21 (1)........ '(' should be deleted.
+
+Page 171 6.5.2 d.: (section 20(1).......... ‘(' should be deleted.
+
+Chapter Vil: Opposition Proceedings to Grant of Patents
+
+Page 10 of 12
+
+
+Page 178, Section 7.1.3
+
+The cited case is on Gleevac the matter of which is sub-judice as the applicant
+has appealed against the Controller’s decision and the decision may reverse. At
+this juncture, this case should not have been cited.
+
+Chapter VIII: Anticipation
+Page 207, Rule 28, section (4) is missing or the numbering is to be checked.
+Chapters IX to XVII
+
+Chapter XlI: Patents of Addition
+
+Page 229, Sectiopn 11.1.8- The case provided in this part relates to lack of
+inventive step but does not provide any relation to patent of addition.
+
+General observations:
+
+1. This chapter does not provide any clarity on addition or deletion of the
+inventors (such as a clause on one common inventor)
+
+2. There is no clarity on the number of applications for patent of addition can 06
+filed.
+
+3. No clarity regarding the newly added material- filing date, priority, any
+intervening prior art :
+
+Chapter 201: Amendment of Applications and Specifications
+Pages 235-236
+
+Court case provided under section 12.1.14 relates more to lack of inventive step
+rather than due to the amendments. :
+
+Chapter XVIIi: Working of Patents and Compulsory Licenses
+No suggestions ः
+
+Chapter XIX : Use of Inventions by Government and Acquisition of Inventions
+by Central Government
+No suggestions
+
+Chapter XX: Suits concerning Infringement of Patents
+
+Page 11 of 12
+
+
+Page 312 Section 20.4 Parallel import:
+Provision for Parallel import is provided in Section 107A(b) of the Act.
+
+107A(b) reads, “importation of patented products by any person from a person
+who is duly authorized under the law to produce पाए sell or distribute the
+product shall not be considered as a infingement of patent rights”
+
+However, the description of Section 107A(b) in Para 20.4 of the Draft Manual
+mention, “...importation of patented products by person authorized by the
+patentee will not be considered as an infringement.” The phrases, ‘person
+authorized under the law’ and ‘person authorized by the patentee’ has
+different meanings, and we believe it is a critical error in Para 20.4 and requires
+correction. Para 20.4 further says, “...it is possible to import the patented
+products from the licensee of the patentee in any country without the
+permission of the patentee”. No further description of Section 107A(b) is
+provided in Para 20.4 of the Draft Manual. We believe clear guidelines should be
+included in Para 20.4 in order to understand the implications of the Section
+107 A(b) with regards to parallel import. :
+
+Page 307 Section 106 “Power of court to grant relief in cases of groundless
+threats infringement proceeding of* may be corrected as “Power of court to
+grant relief in cases of groundiess threats of infringement proceeding”.
+
+Numerical order in Section 113 (Page 309) and Section 114 (Page 30 is
+improper.
+
+Chapters XXI to XXV
+
+No suggestions
+
+Thanks
+
+Page 120 12

@@ -85,11 +85,37 @@ backend/app/
   services/                 # extraction, classifier, assessment, LLM, citations
   workflows/pipeline.py     # stage orchestration with per-stage timing
   main.py                   # FastAPI app
+  db/schema.sql             # relational schema (PostgreSQL); 53 tables, 6 views
+  db/integrity.sql          # the honesty rules, enforced as triggers
 backend/tests/              # 27 tests, all offline
 scripts/                    # ingest_kb, build_index, eval_retrieval, run_demo
+scripts/profile_corpus.py   # measure a raw PDF corpus before ingesting it
+scripts/analyze_corpus.py   # turn that profile into schema-shaping findings
+scripts/build_corpus_db.py  # build the schema, load the real data, verify it
 data/processed/             # chunks.jsonl, documents.json (generated)
+data/profiling/             # corpus_profile.json, corpus_findings.json (generated)
 knowledge_base/documents.csv# document inventory with hashes (generated)
+docs/DATABASE_DESIGN.md     # why the schema looks the way it does
 ```
+
+## Database
+
+The schema is designed against a measured profile of the source corpus rather
+than an assumed one. `docs/DATABASE_DESIGN.md` traces every non-obvious column
+to the property of the data that forced it: scanned files with no text layer,
+byte-identical documents filed under contradictory names, bilingual gazette
+notifications, stakeholder comment letters sitting beside official manuals, and
+three coexisting consolidations of the Patents Act.
+
+```bash
+python scripts/profile_corpus.py "<path>/DATA"   # measure the PDFs
+python scripts/analyze_corpus.py                 # findings that shape the schema
+python scripts/build_corpus_db.py --force        # build, load and verify
+```
+
+The last step is not a smoke test. It creates the schema, loads the profiled
+corpus, the full knowledge base and every stored analysis, then attempts each
+forbidden operation and requires the database to refuse it.
 
 ## Honesty rules baked into the code
 

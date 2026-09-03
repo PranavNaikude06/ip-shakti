@@ -1,0 +1,463 @@
+| (1
+
+|
+M e Revised EXAMINDArTaIftON GUIDELINES
+FOR
+M/ COMPUTER SOFTWARE RELATED
+v INVENTION
+ATTENTION
+
+This is a provisional translation of Japanese text of “ Draft revised
+EXAMINATION GUIDELINES FOR COMPUTER SOFTWARE
+INVENTION”. When any ambiguity of interpretation is found in this
+
+translation, the Japanese text shall prevail.
+
+JAPANESE PATENT OFFICE
+EXAMINATION STANDARDS OFFICE
+
+
+TABLE OF THE CONTENTS
+
+VIII. EXAMINATION GUIDELINES FOR INVENTIONS IN SPECIFIC FIELDS
+Chapter 1. Computer Software Related Invention......................................
+
+1. Description Requirements of Specifications................oo ०
+
+(लगा: o= U
+1.1 Categories of “Software Related Inventions”..................... i
+1.2 Notes
+1.3 Examples of Unclear Claimed Inventions ................... e e
+
+2. Description of the Invention ........... .. e
+2.1 Enabling Requirements . ... ... e व न न न न
+
+2.1.1 Examples of Violating the Enabling Requirements ......................cociiii il
+
+2.1.2 NO S e e e न न
+
+2.2 Ministerial Ordinance Requirements ................cooi i e
+
+व. Requirements for Patentability ........... ... न दर व न न
+1. Inventions Ruled by Patentability Requirements ...
+
+2. Statutory INVENtioN ... e
+
+2.1 Basic Concept ..............
+
+2.2 Actual Procedure for Judgment ...
+2. 3 N O S it e
+2.4 "Structured Data" and "Data Structure” ... ...
+3. Inventive Step (NONODVIOUSNESS) ... ... e e e
+3.1 Basic Concept
+3.2 Problems to be Solved by the Invention
+
+3.3 A Person Having Ordinary Skillinthe Art ...
+
+3.4 Examples of Exercising of Ordinary Creativity Expected of
+a Person Skilled in the Art
+
+3.5 Advantageous Effects ...............o i e
+
+BB NS o e e e e
+
+10
+
+10
+
+12
+
+A2
+
+12
+
+13
+15
+16
+17
+17
+18
+
+18
+
+18
+21
+
+21
+
+
+111. Examples 23
+
+1. Ex'amples for Determination of Description Requirements
+(Related to "Transmission Media") .....................
+
+Example 1-1: Medium to transmit @ program ...t e
+Example 1-2: Information transmission media ......................c.coo
+Example 1-3: Information recording or transmission media ... ... ...... ८-८८
+Example 1-4: Information providingmedia ......................
+Example 1-5: Computer-readable media holding 8 program ..................दद
+
+2. Examples for Determination of “Statutory” Invention ...
+
+2.1 Examples where Information processing by software is concretely realized
+by using the hardware resources .................cooe i
+
+Example 2-1: Calculation method and apparatus (“Mathematical” field) ...............
+
+Example 2-2: Method for storing network-distributed articles (“Business” field) ... ..
+
+Example 2-3: Program for predicting daily sales of commodities...
+(“Business” field) ..................
+
+Example 2-4: Point service method (business field) ........................ol
+Example 2-5. Game machine (“Game” field) .................co i
+
+2.2 Reference examples for determination of “statutory” invention ............................
+
+Example 2-6: Apparatus and method for controlling fuel injection rate for
+an automobile engine
+
+Example 2-7: Image processing method by 8 computer ...............ooo
+3. Examples for Determination of Inventive Step ...
+Example 3-1: Apparatus for retrieving chemical substances ...........................
+Example 3-2: Invoice approval system ("Business” field) .......................
+
+Example 3-3: Point service method (“Business” field) ......................
+
+25
+25
+
+.26
+
+27
+
+28
+
+29
+
+30
+
+30
+30
+
+39
+
+.46
+
+.51
+
+.57
+
+.57
+
+61
+
+.65
+
+65
+
+72
+
+77
+
+
+Example 2-3, Apparatus for predicting daily sales of commodities
+(Example where predicting processing by software of daily sales of commodities is concretely
+realized using the hardware resources)
+
+[Title of Invention]
+Apparatus for predicting daily sales of commodities
+
+[Scope of Claim]
+[Claim 1]
+
+A computer program for predicting daily sales of commodities to make a computer
+for predicting daily sales of various commodities operate 85:
+
+8 means for inputting the date of which daily sales is predicted;
+
+a sales data storage means prepared for storing data representing actual daily
+sales records;
+
+a variable condition rule storage means prepared for storing data representing
+variable condition;
+
+' a correction rule storage means prepared for storing correction data;
+
+a means for getting the first predicted value by reading data representing daily
+sales records in the past few weeks, each data being of the same day of the week as that
+of the day of which daily sales is predicted, and calculating the average of said data; ‘
+
+a means for reading variable condition data from the variable condition data
+storage means, said variable condition data being related to the date of which daily sales
+of the commodities is predicted, and selecting correction rules to be applied to be applied
+based on said variable condition data, said correction rules being stored in the correction
+rule storage means,
+
+a means for determining the second predicted value by correcting the first
+predicting value based on said correction rule to be applied; and
+
+a means for outputting the second predicted vaiue.
+
+[Claim 2]
+
+A computer-readable storage medium containing thereon a computer program for
+predicting daily sales of commodities to make a computer for predicting daily sales of
+various commaodities operate as:
+
+8 means for inputting the date of which daily sales is predicted;
+
+a sales data storage means prepared for storing data representing actual daily
+sales records;
+
+a variable condition rule storage means prepared for storing data representing
+variable condition;
+
+8 correction rule storage means prepared for storing correction data;
+
+a means for getting the first predicted value by reading data representing daily
+sales records in the past few weeks, each data being of the same day of the week as that
+of the day of which daily sales is predicted, and calculating the average of said data;
+
+39
+
+
+a means for reading variable condition data from the variable condition data
+storage means, said variable condition data being related to the date of which daily sales
+of the commodities is predicted, and selecting correction rules to be applied 10 be applied
+based on said variable condition data, said correction rules being stored in the correction
+rule storage means;
+
+a means for determining the second predicted value by correcting the first
+predicting value based on said correction rule to be applied; and
+
+a means for outputting the second predicted value.
+
+[Claim 3}
+
+An apparatus for predicting daily sales of various commodities comprising:
+
+a means for inputting the date of which daily sales is predicted;
+
+a sales data storage means prepared for storing data representing actuai daily
+sales records;
+
+a variable condition rule storage means prepared for storing data representing
+variable condition;
+
+a correction rule storage means prepared for storing correction data;
+
+a means for getting the first predicted value by reading data representing daily
+sales records in the past few weeks, each data being of the same day of the week as that
+of the day of which daily sales is predicted, and calculating the average of said data;
+
+a means for reading variable condition data from the variable condition data
+storage means, said variable condition data being related to the date of which daily sales
+of the commodities is predicted, and selecting correction rules to be applied to be applied
+based on said variable condition data, said correction rules being stored in the correction
+rule storage means;
+
+a means for determining the second predicted value by correcting the first
+predicting value based on said correction rule to be applied; and
+a means for outputting the second predicted value.
+
+[Description of the Invention]
+[Technical field to which the invention pertains]
+
+This invention relates to a computer system for predicting daily sales necessary for
+ordering commodities at a retail shop, and more particularly, to a computer system for
+predicting daily sales suitable for predicting daily sales of various commaodities at a large
+scale retail shop such as a supermarket whose demand changes largely.
+
+[Prior art]
+
+Daily sales of commodities at a large scale retail shop such as a supermarket
+changes largely, depending on various factors, e.g., the day of the week, the date,
+weather, selling status of competing shops (a bargain day, shop closing, etc.), and events
+held in the local community. Therefore, amounts of commaodities to be ordered are
+determined depending on daily sails prediction based on inventory control caretaker's
+experience. ’
+
+40
+
+
+Thus, carrying out a prediction took too much time especially in the case inventory
+caretaker had littie experience.
+
+Moreover, overlooking of some factors of change often arose and prediction was
+not so accurate. '
+
+[Problems to be solved by the invention]
+
+The problem to 96 solved by the invention is (0 provide 8 system for predicting daily
+sales which does not rely on inventory control caretaker's experience and which brings a
+stable result of नि निभा in 8 short time.
+
+[Means for solving the problem]
+(Omitted)
+
+[Mode for carrying out the invention]
+
+Fig. 1 shows the system constitution of the apparatus for predicting daily sales, and
+Fig. 2 shows a flow chart executed by said system.
+
+At first, the worker inputs a date of which daily sales is predicted via an input device
+such as a keyboard.
+
+Actual daily sales records are stored in advance in the sales data file associated
+with the date and the day of the week.
+
+The central processing unit (CPU), being instructed by the control program stored
+in the main memory, reads data of the past few weeks, each being the same day of the
+week as that of the day of which daily sails is predicted, and calculates the average of
+said data. The average of said data is utilized as the first predicted value.
+
+It is empirically known that using actual daily sales records in three to four weeks is
+preferable.
+
+Then the CPU, being instructed by the control program stored in the main memory,
+reads variable condition data, such as probability of raining obtained from the weather
+60851, from the variable condition 0819 file, said variable condition data being
+associated with the date of which daily sails of commodities is predicted, reads correction
+rule being stored in the correction rule file in advance.
+
+(Note: Correction rule is such 85 "if it rains from morning till evening, then 30% decease
+of the sales is expected." It is supposed that detail of the correction rules is fully
+supported by the description of the invention.)
+
+Finally, the CPU, being instructed by the control program stored in the main
+memory, corrects the first predicted value based on said correction rule corresponding to
+the variable condition data, and determines the second predicted value.
+
+The second predicted value is used as the final predicted data and is obtained from
+the output device 85 a printer.
+
+[Working example]
+
+(Note: It is supposed that each components of the mode for carrying out the
+invention, how to fix correction rules, etc. are fully supported by the working example.)
+
+41
+
+
+[Brief description of the drawings]
+(Omitted)
+
+[Drawing_s]
+[Figure 1] System Constitution of the Apparatus for Predicting Daily Sales
+
+Main memory
+
+: Control program )
+
+Input device Output device
+
+File Device
+
+*Variable Condition Data File
+*Correction Rule File
+*Sales Data File
+
+42
+
+
+[Figure 2] Flow Chart
+
+Input a date of which daily sales is predicted
+
+Determine first predicted value by reading daily sales
+records in the past few weeks, each being the same day
+of the week as that of the week of which daily sales is
+predicted, and calculate the average of said data
+
+Read variable condition data from the variable condition
+data file, said variable condition data being associated
+with the data of which daily sales is predicted, select
+
+correction rule to be applied based on said variable
+condition data
+
+Determine the second predicting value by correcting the
+first predicting value based on said correction rule
+corresponding to the variable condition data
+
+Output the second predicted value as the fina!l predicted
+data
+
+[Claim 1] The invention regarding claim 1 constitutes a "statutory invention.»
+[Claim 2] The invention regarding claim 2 constitutes a "statutory invention.»
+[Claim 3] The invention regarding claim 3 constitutes a "statutory invention.v
+
+[Conclusion]
+
+[Explanation]
+[Claim 1]
+Clyimed invention identified on the basis of the definition in claim 1 15:
+"A computer program for predicting daily 58165 of commodities 10 make 8 computer
+for predicting daily sales of various commodities operate 85:
+8 Mmeans for inputting the date of which daily sales is predicted,;
+
+8 \Nales data storage means prepared for storing data representing actual daily
+sales recorgs:
+
+43
+
+
+a variable condition rule storage means prepared for storing data representing
+variable condition;
+
+a correction rule storage means prepared for storing correction data;
+
+a means for getting the first predicted value by reading data representing daily
+sales records in the past few weeks, each data being of the same day of the week as that
+of the day of which daily sales is predicted, and calculating the average of said data;
+
+a means for reading variable condition data from the variable condition data
+storage means, said variable condition data being related to the date of which daily sales
+of the commodities is predicted, and selecting correction rules to be applied to be applied
+based on said variable condition data, said correction rules being stored in the correction
+rule storage means;
+
+a means for determining the second predicted value by correcting the first
+predicting value based on said correction rule to be applied; and
+
+a means for outputting the second predicted value."
+
+Claimed invention identified on the basis of the definition in claim 1, in which
+processing for predicting daily sales of commaodities based on various variable conditions
+and correction rules is realized by a practical means in which the software and the
+hardware resources cooperatively working, said practical means comprising a multiple of
+storage means and control means to read and select data from said storage means, can
+be said that information processing by software is concretely performed using the
+hardware resources.
+
+It follows, therefore, the invention regarding claim 1 is considered to constitute a
+"statutory invention."
+
+[Claim 2]
+
+Claimed invention identified on the basis of the definition in claim 2 15;
+
+"A computer-readable storage medium containing thereon a computer program for
+predicting daily sales of commodities 10 make थे computer for predicting daily sales of
+various commodities operate as:
+
+a means for inputting the date of which daily 58165 15 predicted,
+
+a sales data storage means prepared for storing data representing actual daily
+sales records;
+
+a variable condition rule storage means prepared for storing data representing
+variable condition;
+
+8 correction rule storage means prepared for storing correction data;
+
+a means for getting the first predicted value by reading data representing daily
+sales records in the past few weeks, each data being of the same day of the week as that
+of the day of which daily sales is predicted, and calculating the average of said data;
+
+a means for reading variable condition data from the variable condition data
+storage means, said variable condition data being related to the date of which daily sales
+of the commodities is predicted, and selecting correction rules to be applied to be applied
+
+44

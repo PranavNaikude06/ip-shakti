@@ -1,0 +1,294 @@
+ASAHI SEIMEI OTEMACH! BLDG.18F है) TEL: 81 3 5205 3321
+- 6-1 Otemachi 2-chome FAX: 81 3 5205 3391
+Chiyoda-ku Tokyo, 100-0004, JAPAN /\_Al URL: http://www jipa.or.jp/
+
+March 19 2008
+
+To: Mr. V Ravi
+
+Controller General of Patents, Designs, and Trade /mMarks
+The office of the CGPDTM ;
+S M Road, Antop Hills,
+Mumbai, 400037
+
+India | -
+Dear Mr. V Ravi, A &
+सी s
+S, xC} S P कद
+
+कप मार पुर
+
+The Japan Intellectual Property Association (JIPA) डे 100 govemrnsment-él
+
+organization that was established in 1938, which represents users of intellectual
+property systems in Japan. Counting about 900 leading companies as members,
+the JIPA submits recommendations and proposals to the relevant authorities
+and organizations with regard to the establishment of intellectual- property
+systems overseas and improvements in the implementation thereof.
+
+Visiting.to your office in January 2007 & May 2005, and CGPDTM members'
+coming to Tokyo in November 2007, we are very grateful to you for taking
+discussion time on India ॥? system.
+
+As for recruiting public comments on "DRAFT MANUAL OF PATENT
+PRACTICE AND PROCEDURE - PATENT OFFICE, INDIA (2008)", we submit .
+especially important issues for JIPA's membership companies.
+
+Your deeply consideration on these matters will be appreciated.
+
+Very truly yours,
+
+(Taisuke KATO)
+
+President
+
+Japan Intellectual Property Association
+ASAHI SEIMEI OTEMACHI BLDG.18F
+6-1 Otemachi 2-chome
+
+Chiyoda-ku Tokyo, 100-0004, JAPAN
+
+
+
+JIPA Opinions on the MANUAL OF PATENT PRACTICE AND PROCEDURE_
+(DRAFT)
+
+Japan Intellectual Property Association
+
+1. Adoption of “absolute novelty” system for public use in determining novelty
+(Patent Act Section 2(1), MANUAL CHAPTER-II 3.2 Novelty of Invention)
+
+Section 2(1) of the Indian Patents Act stipulates that a “‘new invention’ means any
+invention or technology which has not been anticipated by publication in any document or used in
+the country or elsewhere in the world before the date of filing of patent application with complete
+specification, i.e., the subject matter has not fallen in public domain or that it does not form part of
+the state of the art.”
+
+On the other hand, Section 3.2.1of MANUAL CHAPTER-II 3.2 Novelty of
+Invention states that “An invention is considered new (novel) if it has not been anticipated by
+publication in any document any where in the world or used in the country ==--. Compared
+with Section 2(1) of the Indian Patents Act, Section 3.2.1 of MANUAL has no mention of “or
+elsewhere in the world”, therefore, it has discrepancy between both, the novelty standard of public
+use on the MANUAL is limited in India.
+
+However, the world trend, including that in Japan, is moving towards a view in which
+novelty of invention 15 rejected in the country in question if the invention has already been publicly
+exploited in another country.
+
+Therefore, we hope that the MANUAL will clearly state the adoption of absolute novelty
+as same 85 Section 201) of Patent Act, and that the Section 3.2.1 of MANUAL will state “used in the
+country or elsewhere in the world”, for example.
+
+Also, we hope that the statement “Prior public knowledge or public use in India * on
+Section 7.1.1 d) of MANUAL CHAPTER-VI OPPOSITION PROCEEEDINGS TO GRANT OF
+
+PATENT is amended to “Prior public knowledge or public use in India or elsewhere in the world”,
+
+for example, so as to avoid discrepancy with Section 2 of Patent Act.
+
+2. Adoption of “whole content approach” system in determining novelty
+(MANUAL CHAPTER-II 3.2 Novelty of Invention)
+
+Section 3.2.2 of Manual describes that “Although the term ‘state of the art’ has not been
+defined under the Patents Act, the following general principles are applied by the Patent Office to
+determine the novelty of the invention during the examination procedure by applying provisions of
+section 13 read with the provisions of sections 29 to 34:
+
+An invention 15 not considered to 96 novel
+
+(a) aaa
+
+
+(¢) if it has been claimed in any claim of any other complete specification filed in India, which
+was filed before the date of application though published after the date of that application..
+
+However, the invention described in any other complete specification and drawing, not
+only any claims, filed in India which is filed before the application but published after said
+application is published. Accordingly, same invention as said invention described in any other
+complete specification filed in India, which is filed by the third party before the application, is one of
+prior art as well as any claims, therefore, should not be patented.
+
+Furthermore, Japan, USA and EPO etc. almost countries adapt such kind of novelty system
+as the world trend.
+
+Therefore, we hope that an invention shall not be considered to be novel if it has been
+described in any claim, description and drawing of any other complete specification filed in India
+which is filed by the third party before the application but published after said application (whole
+content approach system). For example, we hope that (0) of Section 3.2.2 is amended that * (0) if it
+
+has been disclosed of any other complete specification filed in India, which was filed before the date
+
+of application though published after the date of that application”.
+
+3. Protection of computer programs
+(Section 3 of the Patents Act, MANUAL CHAPTER-IV Invention not patentable 4.11)
+
+At present, Section 3, clause (k) of the Indian Patents Act stipulates that “a computer
+programme per se,” etc. shall not be an invention. This clause was modified in 2004 by the Patents
+(Amendment) Ordinance, 2004 to “a computer programme per se other than its technical application
+to industry or a combination with hardware.” However, the Patents (Amendment) Ordinance, 2004
+was nullified along with the 2005 amendment, and the said clause was restored to that which was
+effective in 2003.
+
+However, we consider that India should provide equal protection accorded in other
+countries in line with the purpose of paragraph 1 of Article 27 of the TRIPS Agreement, which
+stipulates that “any inventions, whether products or processes, in all fields of technology” shall be
+patentable subject matter.
+
+On the draft of Manual, it is stated that “An invention consisting of hardware along with
+software or computer program in order to perform the function of the hardware may be considered
+patentable e.g. embedded systems.” (P74 4.11.8)
+
+Therefore, we hope that the Manual clearly states that a patent application is not rejected
+by the statement of “software” or “computer program”. Concretely, the invention disclosed
+at page 39-45 of the attaché document is patentable if the invention satisfies other patentable
+
+conditions
+
+
+4. Early publication of mailbox applications
+(Section 11A(7) of the Patents Act, MANUAL CHAPTER-VI 6.1 Publication of
+application)
+
+The Patents Act stipulates that provisional protection (the applicant’s privileges and rights
+under Section 11A(7)) shall 06 accrued after the relevant application is published (Section 11A(7) of
+the Patents Act). On the other hand, regarding mailbox applications, rights are accrued if
+applications are examined and registered on and after January 1, 2005 without being published (said
+section).  Therefore,  provisional protection (the privileges and rights) that arises through
+publication in the case of ordinary patent applications shall not 96 applied to mailbox applications.
+
+Therefore, we hope that CHAPTER-VI of Manual clearly states that mailbox applications
+
+also will be published.
+
+5. Review of the obligation to furnjsh statements on the working of फिट patented invention and
+the criminal penalty
+
+(Section 146(2) of the Pateuts Act, MANUAL CHAPTER-XVIII 18.1 Working of
+Patented Invention)
+() In India, every patentee and every licensee must furnish statements that duly verify the
+extent to which the patented invention has been worked on a commercial scale in India, in respect of
+every calendar year within three months of the end of each year (section 146(2) of the Patents Act;
+rule 131(1) and (2) of the Patents Rules). ‘
+
+However, it would be an excessive burden on the patentees to furnish such statements for
+all of the patented inventions that they are working on 8 commercial scale in India on an annual basis.
+Furthermore, the status of the working of the inventions may involve business secrets, 50 the
+patentees would often face difficulties in preparing the statements.
+
+Therefore, we request that the obligation to furnish statements on the working of the
+patented invention be abolished or simpliﬁed_
+
+If the working status needs (0 be reported 85 a material for determining whether or not to
+grant 8 compulsory license, it would be sufficient to require the patentee to furnish the statements
+only when an application has been fjled for the granting of a compulsory license. Thus, we request
+that the possibility for shifting to this kind of system be also examined.
+
+(ii) If a person refuses or fails to furnish the statements on the working of the patented
+invention, he/she may be fined up to 10 lakh rupees 85 8 criminal penalty (section 122(1)(b) of the
+Patents Act). This provision imposes a criminal penalty not only when the patentee intentionally
+makes false statements. bt also wWhen the patentee does not furnish the stasements—which dp pot
+
+directly have a large detrimental effect on the public. There are also provisions that correspond to
+
+
+dual liability provisions (section 124 of the Patents Act).
+We consider such a criminal penalty to be an excessively severe punishment for violation
+of the obligation to furnish statements on the working of the patented invention. Therefore, we
+
+request that the criminal penalty be abolished.
+
+* के %
+
+
+MY d1—H—
+
+EEE : "Toshiyuki Hori” <hori@jipa.or.jp>
+Bk : {tgj@nic.in>; “delhi patent office” <delhi-patent@nic.in>
+EERR: 2008438198 13:48
+it - Comments on the DRAFT MANUAL OF PATENT PRACTICE AND PROCEDURE.pdf
+#4 Re: On public opinions from JIPA
+Dear Sir,
+
+Thank you for your following advice.
+We compiled our comments on DRAFT MANUAL OF PATENT PRACTICE AND
+PROCEDURE - PATENT OFFICE, INDIA (2008)
+
+And we send this document to tcj@nic.in by email and Mr.V.Ravi by
+express air-mail.
+
+Your attention and to and cooperation in this matter would be highly
+appreciated.
+
+Regards,
+
+Toshiyuki Hori
+
+Policy & Strategic Division
+
+Japan Intellectual Property Association
+Asahi—seimei Otemachi Bldg.18F
+
+6-1 Otemachi 2-chome,
+
+Chiyoda—ku Tokyo, 100-0004 JAPAN
+
+E-mail: hori@jipa.or.jp
+
+TEL: (81)-3-5205-3321, FAX: (81)-3-5205-3391
+URL: http://www.jipa.or.jp/content/english/
+
+e e e e e e e e e e e e e e e e e e e e e e e e e e e e e ot e e e . e e e e e e e e e e s e
+
+————— Original Message ———
+"From: delhi patent office
+
+To: Toshiyuki Hori
+
+Sent: Tuesday, March 11, 2008 7:24 PM
+Subject: Re: On public opinions
+
+Sir,
+
+[ am directed to inform you that your valuable comments can be sent
+either through e—mail to respective patent office ids or to tgj@nic.in
+or any other mode .
+
+Anita,
+Examiner of Patents & Designs.
+Delhi patent office
+————— Original Message ————
+From: Toshiyuki Hori <hori@jipa.or.jp>
+. Date: Monday, March 10, 2008 1:13 pm
+
+2008/03/19
+
+
+Subject: On public opinions
+To: delhi~patent@nic.in
+
+> Dear Sir,
+
+>
+
+> 1 would like to send a comments 0 DRAFT MANUAL OF PATENT
+> PRACTICE AND
+
+> PROCEDURE - PATENT OFFICE, INDIA (2008)
+> from overseas.
+
+>
+
+> Can 1 send it via email? I hope so.
+
+>
+
+>
+
+Y Thark yau.
+
+>
+
+2/2R=Y
+
+2008/03/19

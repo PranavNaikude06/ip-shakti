@@ -1,0 +1,107 @@
+Office of Controller General of I’atentfs
+
+Designs and Trademarks i .
+S M Road, Antop Hill, [हि
+Mumbai - 400 037 है
+
+Email : tmrmum@bom5.vsnl.net.in
+
+ENTRE FOR EXCELLENCE IN E-GOVERNANCE
+
+DEPARTMENT OF MANAGEMENT STUDIES
+INDIAN INSTITUTE OF TECHNOLOGY, DELHI
+VISHWARKMA BHAWAN,
+SHAHEED JEET SINGH MARG
+
+PHONE :+91-11-26591171
+FAX : +91-11-26862620
+
+March 25, 2008
+
+Sub: SUGGESTIONS AND ISSUES WITH DRATT-MANUAL OF PATENT PRACTICE AND
+
+PROCEDURE - PATENT OFFICE, INDIA (2008) INDIA (2008
+
+Sir/ Madam,
+
+Based खा my analysis and dizcussions with other experts, I would suggest that the following
+changes घाट made to the draft manual in order o preserve the intevest of the country and the
+software indusiry, especially the nascent firms which will become the Infosys's of the fatire
+
+1.
+
+Please refer o section 4 of the Draft Manual. At the very beginning it states that “a
+mathematical or business meihod or a computer program per se or algorithms; “ are not
+inventions as per zection 3(1)f the Patent's Act. However, it seems that cection 4.11 of the
+draft manual is re-interpreting this part of the dct.
+
+Please refer to section 4.11.3. This section stated the following: “ If the patent application
+relates only to a machine i.¢., hardware based invention, the best mode of operation may
+be described along with the suitable illustrations. However, in the case of a  process
+related inventions , the necessary sequence of steps should clearly be described 50 as to
+distinguish the invention from the pricr art with the help of the flowcharts. The
+source/pseudo/object codes may be incorporated in the description aptionally.”
+
+This sub-section implies that software with a hardware implementation can be patented.
+This 15 against the spirit and letter of the Patents Act. Moreover, this will be devastating
+for the Indian sofiware, industry as it this provision will allow backdoor patenting of
+software.
+
+~ O
+
+In case this sub-section refers to only hardware inventions with no reference to software,
+then the sub-section itself zhould be remaved as it has no place under section 4.11 which
+refers to only software. Keeping section 4.11.3 will be misleading and confusing.
+
+
+Similaily sub-section 4.11.4 refers to hardware implementations and talks about obvious
+issues of how inventions with prior art cannot be patented. This sub-sectinn should 8150
+be removed front under section 4.11 as it is confusing and misleading.
+
+(SN
+
+4. Sub-section 4.11.6 refers to conditions under which softwares and software methods can
+be patented. This again goes against the spirit and letter of the Patents Act. The example
+of signal processing from seismic transducers has no implication whatsoever on allowing
+softwares to be patented. The two are orthogeonal issues. This import of this sub-zection is
+therefore not obvious and should therefore be re-framed to bring out clarity or should be
+deleted altogether.
+
+5. Sub-section 4.11.7 refers to hardware inventions and are therefore out of context for
+section 4.11. Also, it seems 0 hint that if data is stored as per the hardware invention then
+that can be patented. New media invention लि storing data can possibly be considered for
+being patented but definitely any software helping in data storage cannot be patented as
+per the Patents Act and rightfully s0. This sub-section should be removed from Section
+4.11.
+
+6. Sub-szeciion 4.11.8 has the following sentence at the end “An invention consisting of
+hardware along with sofiware or compnter program in order to perform the function of
+the hardware may be considered patentable. ¢. 2., embedded systems. *
+
+The software referred above cannot be patenied as per the Patents Act. This statements is
+attempting to re-interpret the act inacenrately. The hardware may be considered for being
+patented but the sofiware component of the hardware carmot be patented. The above
+sentence should be removed from section 4.11.8 ः
+
+7. Sub-section 4. 11.9 appears to be missed out.
+
+[ve]
+
+Sub-section 4.11.10 implies that a mathematical method cannot be patented but its
+application (o a specific technical field (ez. the image processing पा the Vicom case) can
+be patented. By eziending this logic, all mathematical methads can be patented by simply
+linking it io a technical field. This will help large companies as they can afford to put in
+hundreds of patenis for hundred of technical fields by extending each mathematical
+method to these fields. This 15 again against the Patents Act. This sub-section shonld फिट
+removed.
+
+I would request your office to consider the above suggestions with appropriate gravity and to
+mal:e ihe necessary modifications to the draft mannal of patent practice and procedure
+
+Thanking you,
+
+Yours sincerely
+
+2. #न्
+
+Dr. Jaijit Bhattacharya

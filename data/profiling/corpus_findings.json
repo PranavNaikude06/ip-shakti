@@ -1,0 +1,374 @@
+{
+  "language_mismatches": [
+    {
+      "relpath": "Design/Rules/Design Rules, 2001 HINDI.pdf",
+      "name_claims": "HINDI",
+      "measured": "ENGLISH",
+      "devanagari_share": 0.0,
+      "function_word_ratio": 0.4257
+    },
+    {
+      "relpath": "Geographical Indications/Rules/The Geographical Indications of Goods (Registration & Protection) Rules, 2002 (Hindi).pdf",
+      "name_claims": "HINDI",
+      "measured": "ENGLISH",
+      "devanagari_share": 0.0,
+      "function_word_ratio": 0.4697
+    },
+    {
+      "relpath": "Patents/Rules/Patent 2nd Amendment Rules, 2024 - Published on 16.03.2024 English.pdf",
+      "name_claims": "ENGLISH",
+      "measured": "BILINGUAL_HI_EN",
+      "devanagari_share": 0.469,
+      "function_word_ratio": 0.4463
+    },
+    {
+      "relpath": "Patents/Rules/Patent 2nd Amendment Rules, 2024 - Published on 16.03.2024 Hindi].pdf",
+      "name_claims": "HINDI",
+      "measured": "BILINGUAL_HI_EN",
+      "devanagari_share": 0.465,
+      "function_word_ratio": 0.4527
+    },
+    {
+      "relpath": "Patents/Rules/Patent Amendments Rules 2024 - Published on 15.03.2024 English.pdf",
+      "name_claims": "ENGLISH",
+      "measured": "BILINGUAL_HI_EN",
+      "devanagari_share": 0.477,
+      "function_word_ratio": 0.4431
+    },
+    {
+      "relpath": "Patents/Rules/Patent Amendments Rules 2024 - Published on 15.03.2024 Hindi.pdf",
+      "name_claims": "HINDI",
+      "measured": "BILINGUAL_HI_EN",
+      "devanagari_share": 0.461,
+      "function_word_ratio": 0.4498
+    },
+    {
+      "relpath": "Patents/Rules/Patents (Amendment) Rules, 2021 Hindi.pdf",
+      "name_claims": "HINDI",
+      "measured": "BILINGUAL_HI_EN",
+      "devanagari_share": 0.474,
+      "function_word_ratio": 0.4197
+    },
+    {
+      "relpath": "Trade Marks/Rules/Trade Marks Rules 2002, Forms & Fee (HINDI).pdf",
+      "name_claims": "HINDI",
+      "measured": "ENGLISH",
+      "devanagari_share": 0.0,
+      "function_word_ratio": 0.0921
+    }
+  ],
+  "bilingual_files": [
+    "Copyrights/Rules/Copyright-Rules Amendment 2021.pdf",
+    "Design/Rules/Draft Designs (Amendment) Rules, 2019 - published for Objections or suggestions.pdf",
+    "Design/Rules/The Designs (Amendment) Rules, 2021.pdf",
+    "Geographical Indications/Rules/The Geographical Indications of Goods (Registration and Protection) (Amendment) Rules, 2020.pdf",
+    "Geographical Indications/Rules/The Geographical Indications of Goods (Registration and Protection) (Amendment) Rules, 2025.pdf",
+    "Patents/Acts/THE JAN VISHWAS (AMENDMENT OF PROVISIONS) ACT, 2023 English2.pdf",
+    "Patents/Rules/Draft Patent Rules.pdf",
+    "Patents/Rules/Patent 2nd Amendment Rules, 2024 - Published on 16.03.2024 English.pdf",
+    "Patents/Rules/Patent 2nd Amendment Rules, 2024 - Published on 16.03.2024 Hindi].pdf",
+    "Patents/Rules/Patent Amendments Rules 2024 - Published on 15.03.2024 English.pdf",
+    "Patents/Rules/Patent Amendments Rules 2024 - Published on 15.03.2024 Hindi.pdf",
+    "Patents/Rules/Patents (Amendment) Rules, 2021 Hindi.pdf",
+    "Patents/Rules/Patents (Amendment) Rules, 2021.pdf",
+    "Patents/Rules/The Draft Patents (2nd Amendment) Rules, 2024 are published in the Gazette of India on 2 January 2024..pdf",
+    "Patents/Rules/The Draft Patents (Amendment) Rules, 2023 are published in the Gazette of India on 22 August 2023 for Objections or suggestions..pdf",
+    "Trade Marks/Rules/Trade Marks Rules, 2017.pdf"
+  ],
+  "exact_duplicates": [
+    {
+      "sha256": "23cb77f3b4905932d5ca94179eac97e48e27b01b2a1b70a7e57d3900b0ed1222",
+      "page_count": 72,
+      "language": "ENGLISH",
+      "extractable": true,
+      "copies": [
+        "Geographical Indications/Acts/THE JAN VISHWAS (AMENDMENT OF PROVISIONS) ACT, 2023.pdf",
+        "Patents/Acts/THE JAN VISHWAS (AMENDMENT OF PROVISIONS) ACT, 2023,English1.pdf"
+      ],
+      "cross_domain": true
+    },
+    {
+      "sha256": "6b2afe2aafce7bf2b18a96ea52f2e28849f2cf07dd7cb4af10bfe48609c9b14e",
+      "page_count": 24,
+      "language": null,
+      "extractable": false,
+      "copies": [
+        "Patents/Acts/The Patents (Amendment) Act - 25 June 2002.pdf",
+        "Patents/Acts/The Patents (Amendment) Act, 2002 (38 of 2002).pdf"
+      ],
+      "cross_domain": false
+    },
+    {
+      "sha256": "943f2afea493474af3fe3cf8b9ce7f456757616ee57083d6ce32a02c3a33914e",
+      "page_count": 64,
+      "language": "ENGLISH",
+      "extractable": true,
+      "copies": [
+        "Patents/Acts/The Patents (Amendment) Act - 25 June 20021.pdf",
+        "Patents/Acts/The Patents Act 1970 English.pdf"
+      ],
+      "cross_domain": false
+    },
+    {
+      "sha256": "9713a2aff6dc0befe74371ea5d5619800d3811accac33115a1224216f5ea7dde",
+      "page_count": 15,
+      "language": "BILINGUAL_HI_EN",
+      "extractable": true,
+      "copies": [
+        "Patents/Rules/Patent Amendments Rules 2024 - Published on 15.03.2024 Hindi.pdf",
+        "Patents/Rules/The Draft Patents (2nd Amendment) Rules, 2024 are published in the Gazette of India on 2 January 2024..pdf"
+      ],
+      "cross_domain": false
+    },
+    {
+      "sha256": "5f8ebb98140f77b4edcdc0c8067468ab97853626b37cb8c5493a3544dd88e8c4",
+      "page_count": 6,
+      "language": "BILINGUAL_HI_EN",
+      "extractable": true,
+      "copies": [
+        "Patents/Rules/Patents (Amendment) Rules, 2021 Hindi.pdf",
+        "Patents/Rules/Patents (Amendment) Rules, 2021.pdf"
+      ],
+      "cross_domain": false
+    },
+    {
+      "sha256": "b641f3511e784edbcf8b5ebb1b764acfe14bdd0052fa7f47bb659731ca86e4cc",
+      "page_count": 2,
+      "language": null,
+      "extractable": false,
+      "copies": [
+        "Trade Marks/Rules/TM Amendment Rules 2013 Gazette Notification.pdf",
+        "Trade Marks/Rules/Trade Marks (Amendment) Rules, 2013.pdf"
+      ],
+      "cross_domain": false
+    }
+  ],
+  "redundant_file_count": 6,
+  "authority_tiers": {
+    "DRAFT_OR_NOTICE": 12,
+    "NON_NORMATIVE_COMMENT": 24,
+    "OFFICE_PRACTICE": 25,
+    "PRIMARY_LEGISLATION": 26,
+    "SUBORDINATE_LEGISLATION": 23
+  },
+  "non_normative_files": [
+    "Patents/Manuals/All the stakeholders to forward their comments or suggestions at cgoffice.pdf",
+    "Patents/Manuals/Comments of All Indian Peoples Science Network, New Delhi dated 15.04.2008.pdf",
+    "Patents/Manuals/Comments of Anand and Anand dated 20.03.2008.pdf",
+    "Patents/Manuals/Comments of CII Hyderabad dated 16.04.2008.pdf",
+    "Patents/Manuals/Comments of Corporate Law Group, New Delhi dated 21.04.2008.pdf",
+    "Patents/Manuals/Comments of Department of Management Studies, IIT Delhi dated 25.03.2008.pdf",
+    "Patents/Manuals/Comments of INTERPAT Secretariat United Kingdom dated 14.04.2008.pdf",
+    "Patents/Manuals/Comments of Indian Drugs Manufacturing Associations, Mumbai dated 24.04.2008.pdf",
+    "Patents/Manuals/Comments of Indian Pharmaceuticals Alliance, Mumbai dated 03.04.2008.pdf",
+    "Patents/Manuals/Comments of Interpharma on Draft Manual of Patent Practice and Procedure dated 01.04.2008.pdf",
+    "Patents/Manuals/Comments of Japan Intellectual Property Association (JIPA), Tokyo dated 19.03.2008.pdf",
+    "Patents/Manuals/Comments of Microsoft corporation india Pvt.Ltd. dated 14.04.2008.pdf",
+    "Patents/Manuals/Comments of National Working Group on Patent Law, New Delhi dated 16.04.2008.pdf",
+    "Patents/Manuals/Comments of Organisation of pharmaceuticals Producers of India, Mumbai dated April 10, 2008.pdf",
+    "Patents/Manuals/Comments of Piramal Life Sciences, Mumbai dated 15.04.2008.pdf",
+    "Patents/Manuals/Comments of Ranbaxy Laboratories Limited, Gurgaon.pdf",
+    "Patents/Manuals/Comments of Remfry Sager, New Delhi dated 16.04.2008.pdf",
+    "Patents/Manuals/Comments of Torrent Pharmaceuticals Limited, Ahmedabad dated 02.04.2008.pdf",
+    "Patents/Manuals/Comments of USV Limited, Mumbai dated 09.04.2008.pdf",
+    "Patents/Manuals/Comments of V.R.Krishna Iyer (Former Judge Supreme Court), Ernakulam, Kochi dated 19.03.2008.pdf",
+    "Patents/Manuals/Draft revised guidelines for computer software related inventions of JIPA.pdf",
+    "Patents/Manuals/First stake holder meeting dated 24.07.2008.pdf",
+    "Patents/Manuals/Stakeholders Meetings on Draft Manual of Patent Practice and Procedure.pdf",
+    "Patents/Manuals/WO Ga 34, China.pdf"
+  ],
+  "draft_files": [
+    "Design/Rules/Draft Designs (Amendment) Rules, 2013.pdf",
+    "Design/Rules/Draft Designs (Amendment) Rules, 2019 - published for Objections or suggestions.pdf",
+    "Geographical Indications/Guidelines/Draft Guidelines for permitting the use of Geographical Indication (GI) Logo and Tagline.pdf",
+    "Patents/Guidelines/Draft Guidelines for Search and Examination of Patent Public Notice.pdf",
+    "Patents/Guidelines/Draft Guidelines for Search and Examination of Patent application inviting Comments or Suggestion -2015.pdf",
+    "Patents/Guidelines/Draft guideline for Computer Related Inventions (CRIs) - 2013.pdf",
+    "Patents/Rules/Draft Patent Rules.pdf",
+    "Patents/Rules/The Draft Patents (2nd Amendment) Rules, 2024 are published in the Gazette of India on 2 January 2024..pdf",
+    "Patents/Rules/The Draft Patents (Amendment) Rules, 2023 are published in the Gazette of India on 22 August 2023 for Objections or suggestions..pdf",
+    "Trade Marks/Guidelines/Public Notice for filing of application u-r 124 of TM Rules, 2017.pdf",
+    "Trade Marks/Manuals/Draft manual of Trademarks Practice and Procedure Public Notice.pdf",
+    "Trade Marks/Manuals/Draft manual of Trademarks Practice and Procedure inviting Comments Suggestion.pdf"
+  ],
+  "per_domain": {
+    "AYUSH_REGULATORY": {
+      "files": 3,
+      "pages": 60,
+      "mb": 1.4,
+      "extractable_files": 3,
+      "ocr_needed_files": 0,
+      "ocr_needed_pages": 0,
+      "english": 3,
+      "hindi": 0,
+      "est_chunks": 250,
+      "text_chars": 201861
+    },
+    "COPYRIGHT": {
+      "files": 10,
+      "pages": 321,
+      "mb": 6.6,
+      "extractable_files": 9,
+      "ocr_needed_files": 1,
+      "ocr_needed_pages": 60,
+      "english": 7,
+      "hindi": 2,
+      "est_chunks": 692,
+      "text_chars": 637295
+    },
+    "DESIGN": {
+      "files": 10,
+      "pages": 324,
+      "mb": 21.1,
+      "extractable_files": 7,
+      "ocr_needed_files": 3,
+      "ocr_needed_pages": 52,
+      "english": 5,
+      "hindi": 2,
+      "est_chunks": 290,
+      "text_chars": 393366
+    },
+    "GEOGRAPHICAL_INDICATION": {
+      "files": 9,
+      "pages": 422,
+      "mb": 10.9,
+      "extractable_files": 9,
+      "ocr_needed_files": 0,
+      "ocr_needed_pages": 0,
+      "english": 6,
+      "hindi": 3,
+      "est_chunks": 1274,
+      "text_chars": 825933
+    },
+    "PATENT": {
+      "files": 62,
+      "pages": 2433,
+      "mb": 67.6,
+      "extractable_files": 37,
+      "ocr_needed_files": 25,
+      "ocr_needed_pages": 504,
+      "english": 27,
+      "hindi": 10,
+      "est_chunks": 3904,
+      "text_chars": 4367062
+    },
+    "TRADEMARK": {
+      "files": 16,
+      "pages": 851,
+      "mb": 17.5,
+      "extractable_files": 13,
+      "ocr_needed_files": 3,
+      "ocr_needed_pages": 5,
+      "english": 11,
+      "hindi": 2,
+      "est_chunks": 1830,
+      "text_chars": 1848123
+    }
+  },
+  "phase1_ingestable": {
+    "files": 58,
+    "pages": 2663,
+    "text_chars": 5498030,
+    "est_chunks": 6288,
+    "by_domain": {
+      "AYUSH_REGULATORY": 3,
+      "COPYRIGHT": 8,
+      "DESIGN": 5,
+      "GEOGRAPHICAL_INDICATION": 7,
+      "PATENT": 25,
+      "TRADEMARK": 10
+    },
+    "by_tier": {
+      "PRIMARY_LEGISLATION": 16,
+      "OFFICE_PRACTICE": 25,
+      "SUBORDINATE_LEGISLATION": 17
+    }
+  },
+  "phase1_file_list": [
+    "Ayush/ITRA/ITRA_Act_2020.pdf",
+    "Ayush/NCH/NCH_Act_2020.pdf",
+    "Ayush/NCISM/ncism_act_2020.pdf",
+    "Copyrights/Acts/Copyright Act, 1957.pdf",
+    "Copyrights/Manuals/Artistic Works Manual.pdf",
+    "Copyrights/Manuals/Cinematograph Film Works Manual.pdf",
+    "Copyrights/Manuals/Literary Works Manual.pdf",
+    "Copyrights/Manuals/Musical Work Manual.pdf",
+    "Copyrights/Manuals/Sound Recording Work Manual.pdf",
+    "Copyrights/Rules/Copyright Rules 2013 ENGLISH.pdf",
+    "Copyrights/Rules/Copyright-Rules Amendment 2021.pdf",
+    "Design/Acts/Act of 2000 ENGLISH.pdf",
+    "Design/Manuals/Designs (Amendment) Rules, 2014.pdf",
+    "Design/Rules/Design Rules, 2001 ENGLISH.pdf",
+    "Design/Rules/Design Rules, 2001 HINDI.pdf",
+    "Design/Rules/The Designs (Amendment) Rules, 2021.pdf",
+    "Geographical Indications/Acts/THE JAN VISHWAS (AMENDMENT OF PROVISIONS) ACT, 2023.pdf",
+    "Geographical Indications/Acts/The Geographical Indications of Goods (Registration & Protection) Act, 1999.pdf",
+    "Geographical Indications/Manuals/Manual of Geographical Indications Practice and Procedure.pdf",
+    "Geographical Indications/Rules/The Geographical Indications of Goods (Registration & Protection) Rules, 2002 (Hindi).pdf",
+    "Geographical Indications/Rules/The Geographical Indications of Goods (Registration & Protection) Rules, 2002.pdf",
+    "Geographical Indications/Rules/The Geographical Indications of Goods (Registration and Protection) (Amendment) Rules, 2020.pdf",
+    "Geographical Indications/Rules/The Geographical Indications of Goods (Registration and Protection) (Amendment) Rules, 2025.pdf",
+    "Patents/Acts/THE JAN VISHWAS (AMENDMENT OF PROVISIONS) ACT, 2023 English2.pdf",
+    "Patents/Acts/The Patents (Amendment) Act - 25 June 20021.pdf",
+    "Patents/Acts/The Patents (Amendment) Act 2005.pdf",
+    "Patents/Acts/The Patents Act 1970 (incorporating all amendments till 11-03-2015).pdf",
+    "Patents/Acts/The Patents Act, 1970 (incorporating all amendments till 01-08-2024).pdf",
+    "Patents/Acts/The Tribunals Reforms Act, 2021.pdf",
+    "Patents/Guidelines/Annexure I - Additional Illustrative Examples (CRIs 2025).pdf",
+    "Patents/Guidelines/Annexure II - Non Exhaustive List of Case Laws related to CRIs (2025).pdf",
+    "Patents/Guidelines/GUIDELINES FOR EXAMINATION OF COMPUTER RELATED INVENTIONS (CRIs) - 2025.pdf",
+    "Patents/Guidelines/Guidelines for Examination of Ayush Related Inventions-2025.pdf",
+    "Patents/Guidelines/Guidelines for Examination of Biotechnology Applications for Patent - 2013.pdf",
+    "Patents/Guidelines/Guidelines for Examination of Computer Related Inventions (CRIs) - 2016.pdf",
+    "Patents/Guidelines/Guidelines for Processing of Patent Applications relating to Traditional Knowledge and Biological Material - 2012.pdf",
+    "Patents/Guidelines/Guidelines for examination of patent applications in the field of Pharmaceuticals - 2014.pdf",
+    "Patents/Guidelines/Guidelines for the Use of Artificial Intelligence in Patent Examination Procedures.pdf",
+    "Patents/Guidelines/Revised Guidelines for Examination of Computer-related Inventions (CRIs) - 2017.pdf",
+    "Patents/Manuals/FICCI’s Comments on MPPP dated.pdf",
+    "Patents/Manuals/MANUAL OF PATENT OFFICE PRACTICE AND PROCEDURE dated 22.03.2011.pdf",
+    "Patents/Manuals/Manual of Patent Office Practice and Procedure -2019 (In supersession of earlier manual).pdf",
+    "Patents/Manuals/Patent Office Procedures dated 30.6.2009..pdf",
+    "Patents/Rules/Patent 2nd Amendment Rules, 2024 - Published on 16.03.2024 English.pdf",
+    "Patents/Rules/Patent 2nd Amendment Rules, 2024 - Published on 16.03.2024 Hindi].pdf",
+    "Patents/Rules/Patent Amendments Rules 2024 - Published on 15.03.2024 English.pdf",
+    "Patents/Rules/Patent Amendments Rules 2024 - Published on 15.03.2024 Hindi.pdf",
+    "Patents/Rules/Patents (Amendment) Rules, 2021 Hindi.pdf",
+    "Trade Marks/Acts/New Elements in the TRADE MARKS ACT, 1999.pdf",
+    "Trade Marks/Acts/Trade Marks Act 1999 (ENGLISH).pdf",
+    "Trade Marks/Acts/TradeMarks (Amendment) Act, 2010.pdf",
+    "Trade Marks/Guidelines/Guidelines for functioning under the Madrid Protocol.pdf",
+    "Trade Marks/Guidelines/SOP for Well-Known Application processing.pdf",
+    "Trade Marks/Guidelines/SoP of Trade Marks Applications.pdf",
+    "Trade Marks/Guidelines/The Madrid Protocol   A route to global branding.pdf",
+    "Trade Marks/Rules/Trade Marks Rules 2002, Forms & Fee (ENGLISH).pdf",
+    "Trade Marks/Rules/Trade Marks Rules 2002, Forms & Fee (HINDI).pdf",
+    "Trade Marks/Rules/Trade Marks Rules, 2017.pdf"
+  ],
+  "existing_kb": {
+    "chunks": 2891,
+    "documents": {
+      "PAT-ACT-1970": 748,
+      "BDA-ACT-2002": 299,
+      "DCA-ACT-1940": 416,
+      "TM-ACT-1999": 693,
+      "CR-ACT-1957": 543,
+      "DES-ACT-2000": 192
+    },
+    "distinct_sections": {
+      "PAT-ACT-1970": 173,
+      "BDA-ACT-2002": 72,
+      "DCA-ACT-1940": 90,
+      "TM-ACT-1999": 169,
+      "CR-ACT-1957": 105,
+      "DES-ACT-2000": 48
+    }
+  },
+  "overlap_note": "The India Code ingest already holds the consolidated bare Acts for PATENT, TRADEMARK, COPYRIGHT, DESIGN. The DATA corpus adds Rules, Manuals, Guidelines and Amendment Acts for those domains, plus GEOGRAPHICAL_INDICATION and AYUSH_REGULATORY which the KB lacks entirely. It does not cover BIODIVERSITY_ABS or REGULATORY (Drugs & Cosmetics), which India Code supplies.",
+  "sizing": {
+    "extractable_text_chars": 8273640,
+    "approx_tokens": 2068410,
+    "phase1_est_chunks": 6288,
+    "dense_index_mb_at_384d_float32": 9.7,
+    "existing_dense_index_mb": 4.4
+  }
+}

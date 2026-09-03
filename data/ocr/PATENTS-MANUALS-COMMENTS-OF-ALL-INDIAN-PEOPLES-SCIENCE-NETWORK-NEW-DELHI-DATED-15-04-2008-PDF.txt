@@ -1,0 +1,425 @@
+Page 1 of 1
+
+Nivssaging Bervice frivm
+MNational Informatics Uentre
+Home Profile M FM Log Out Help
+Last login on Apr 9, 2008 5:39:31 PM from 210.210.97.242
+
+Welcome Intellectual
+
+Current Foldar Inbox
+
+Mail Catendar Address Book Options
+
+3Compose दंड Printable
+
+- mumba-patent@nic.ir i
+umbai < | Previous | Message 5 of 578 | !
+
+CG
+" chennai Move message to folder:
+’ Drafis U Buniest Commerts on Draft Manua! of Patent Practive सर Progedure
+Lans
+= Kolkat L Pram CTD/ DSF <¢ f@bol.net.in>
+= Kolkata | From TD/ DSF <ctddst@ |
+
+i
+misc Date Tuesday, April 15, 2008 5:04 pm
+
+हु एन 1 Attachments manual_comments doc 1
+) 15/4/2008
+
+Manage Folders |
+| ०,
+
+Boudhik Sampada Bhawan,
+S.M.Road, Near Antop Hill Post Office,
+Antop Hill, Mumbail - 400 037.
+
+| Patent Office
+
+| This is with reference to your request for comments on the Draft Manual of Patent Practice
+and Procedure.
+
+Please find attached the same.
+Thanking You,
+i Yours Sincerely,
+
+(Dr.Amit Sen 098)
+
+https://mail.nic.in/uwc/webmail/msg_fs Ir.jsp?&rev=3&security=false&lang=en&popupL... 4/16/2008
+
+
+President. O F Narayanan®
+
+1138, Lower Graund Floor, Saket, New Dethi - 116 017 ’WQ v ¥ % *
+F 20862710, 20524323, 26824324 सदर 208027 1o 9,०06 # )
+
+ctddsfigivenl.eom
+
+15/4/2008
+To,
+Patent Office
+
+Boudhik Sampada Bhawan,
+S.M.Road, Near Antop Hill Post Office,
+
+Antop Hill, Mumbail - 400 037.
+
+This is with reference to your request for comments on the Draft Manual of Patent
+Practice and Procedure.
+
+Please find attached the same.
+
+Thanking You,
+
+Yours Sincerely,
+
+(Dr.Amit Sen Gupta)
+
+
+Comments on
+
+Draft Manual of Patent Practice and Procedure - Patent Office, India (2008)
+
+122
+
+This representation addresses the section 4.11 of|the Draft Manual, which
+provides the guidelines for defining what is excluded from patenting vide
+section 3(k) of the Patents Act, 2005,
+
+The Clause 3(k) has defined what is not patentable in quite unambiguous
+terms. It 15 a well settled principle in law that a rule or a guidelines cannot
+change the substantive meaning of legislation. Untortunately, this is what the
+Drart Manuai proposes 10 do in पड interpretation or tiis clause.
+
+Indian Patents Act differs from other Patent Laws in so far as it clearly lays
+down what is not patentable. The Clause 3(k) is one such clause. The
+lawmakers were clear in their intention, “A mathematical or business method
+or a computer programime per se or algorithms are not patentable”. Therefore,
+through guidelines, what is not patentable under law cannot be made
+patentable through practices and procedures. as the Draft Manual proposes to
+
+It mioht फिट noted that the Draft Manual is trvino to brino in the amendment to
+the Patents_Act.which was subseauentlv not acceoted in the Parliament. The
+relevant 3(k) amendment was, "8 computer programime per se other than its
+technical application to industry or a combina\tion with hardware; a
+mathematical method or a business method or algonithms;” By retaining the
+original wording and not accepting the change that software could become
+patentable by virtue of a technical applicatiqn. the Parliament made its
+legislative intent clear. Therefore, by an interpretation of the act, the Patent
+Office cannot change the legislative intent that with or without technical
+application, software would not be patentable.
+
+In trying to reach this interpretation, the Patents Office seems to have copied
+the relevant sections from the “Manual of Patenf{ Practice guidance for
+interpreting the Patent Act 19777, UK. This has been done without any
+reference that would justify such wholesale lifting of interpretation. We
+reproduce below what the Draft Manual says in for example 4.11 and what the
+UK manual says.
+
+Indian Draft Manual 4.11.7
+
+4.11.10 A mathematical method is one which is carried out on numbers
+and provides a result in numerical form (the mathematical method or
+algorithm therefore being merely an abstract concept prescribing how
+to operate on the numbers) and not patentable. However. its annlication
+mav well be patentable. for example, in Vicom/Computer-related
+mnvention |198/] 1 WEPL 14 (T208/84) the|invention concerned a
+mathematical method for manipulating data representing an image,
+leading to an enhanced digital image. Claims to a method of digitally
+filtering data performed on a conventional general purpose computer
+were rejected, since those claims were held|to define an abstract
+concept not distinguished from a mathematical method. However,
+claims to a method of image processing whichjused the mathematical
+method to operate on numbers representing an limage can be allowed.
+The reasoning was that the image processing performed was a
+technical (i.e. non- excluded) process which related to technical quality
+of the image and that a claim directed 10 a technical brocess in which
+
+
+
+हा
+
+6.
+
+7.
+
+8.
+
+the method used does not seek protection for the mathematical method
+as such. Therefore the allowable claims as such went beyond a
+mathematical method.
+
+The UK Patent Manual Clause 1.17
+
+Similarly, mathematical methods are not patentable but their
+application may well be patentable. For example, in Vicom/Computer-
+related invention [1987] 1 OJEPO 14 (T208/84) the invention
+concerned a mathematical method for manipulating data representing
+an image, leading to an enhanced digital image. The EPO Technical
+Board of Appeal defined a mathematical method as one which is
+carried out on numbers and provides a result in numerical form (the
+mathematical method or algorithm therefore being merely an abstract
+concept prescribing how to operate on the numbers). Thus the
+Technical Board of Appeal rejected claims to a method of digitally
+filtering data performed on a conventional general purpose computer,
+since those claims were held to define an abstract concept not
+distinguished from a mathematical method. However, they allowed
+claims to a method of image processing which used the mathematical
+method to operate on numbers representing an image. The reasoning
+was that the image processing performed was a technical (ie non-
+excluded) process which related to the technical quality of the image
+and that even if the idea underlying an invention may be considered to
+reside in a mathematical method, a claim directed to a technical
+process in which the method is used does not seek protection for the
+mathematical method as such. Therefore the allowable claims went
+beyond a mathematical method as such because they specified the
+physical entity the data represented and the technical process in which
+it was used.
+
+Not only are the sentences lifted verbatim, with only some minor re-
+arrangements, even the reference to the case in "the UK Manual,
+Vicom/Computer-related invention [1987] 1 OJEPO 14 (T208/84), is not
+listed in the cases given in the Annexure List of cases for the Draft Manual.
+
+According to the Draft Manual, the allowable claim goes beyond a
+mathematical method as it specifies a physical entity (signals) and the
+
+“technical process (image processing). Simply put, what the patent office 15
+claiming is that while a mathematical method cannot be patented, however its
+application to a specific technical field — image processing in the Vicom case
+— is patentable.
+
+The problem with this approach is that while the patent office may regard
+image or signal processing as a technical application, what is being patented is
+still a mathematical method. The mere fact that it is 8 mawnemaucar aicorunm
+
+शी applied 1o 8 3060८110 applicauon with specific physical entities does not change
+
+9.
+
+that the content ot what 15 being patented. which 15 still the mathematical
+algorithm. Only the scope of the patent is being narrowea 0४ nmiung it to
+image processing.
+
+If the above is accepted, all that would be required for securing software
+patents for the actual mathematical method is to file separate applications for
+each of the application of the mathematical method, in this case the digital
+filtering algorithm. This is merely changing the form of the patent application
+
+
+11.
+
+14.
+
+|
+
+and not its substance. We find such an interpretation completely contrary to
+
+the patent law that has been framed in this country.
+
+. The Image Processing case is particularly important, as if it is accepted, all
+
+compression techniques would also be patentable on similar grounds. Already.
+the practices of USPTO and EPO have lead to a situation that a number of
+standard formats such as JPEG and GIF have come पट patent threats. Since
+any company that uses digital pictures — cameras, images on the web, etc., can
+be sued for infringing such patents, the potential économic consequence of
+such patents is enormous. This is why software patents under any garb, are
+particularly pernicious.
+
+One of the earliest software patents was that of the LMZ compression, which
+was used in the GIF format. It is now widely accepted in the software industry
+that such patents are in fact patents of mathematical algorithms. It was because
+the GIF format came under a patent threat that other, formats became popular.
+However, similar threats now exist for other formats for image processing. In
+most such cases, the software industry has had to file review applications in
+USPTO to invalidate such patents. We see no reason why we should follow
+this tortuous path, when we have a clear law on this on our statuette books
+
+disallowing software patents.
+
+. The language of Section 3 k) of the The Patents Act, 1970 makes it clear that
+
+unlike certain countries, where the Patents Offices have been issuing patents
+for mathematical or business methods and for software, the Indian Parliament
+has considered software per se not to be patentable.
+
+. The clause that software per se 15 not patentable' would mean that only
+
+software as a part of a larger invention of which it is a part could be
+considered for a patent as a whole provided it meets the criteria of patents
+given in the Act. This makes clear software “standing alone™ is not patentable
+under Indian law. It is pertinent that 85 software cannot execute on its own
+without any hardware, this means that software running on general-purpose
+data processing machines (computers) do not qualify for patents. The mere
+addition of conventional data processing equipment to a software application
+does not turn that application into an invention.TOnly if the software
+application is 8 part of a larger system and the system as a whole is eligible for
+a patent, can the invention be patented as a whole. This is the intent of the Act
+and therefore we are sure that the Patent office would take this into cognizance
+when deciding on patent claims.
+
+If we take this clause of software per se not being patentable with the other
+part of the clause the intent of the Law becomes even clearer. It is clear from 3
+k) above, that any mathematical method or a business method or a
+mathematical algorithm cannot be patented, irrespective of whether it is
+embodied in software or not. The non-patentablity of b.ujsiness or mathematical
+method or algorithm is even broader than the non-patentability of software per
+
+se and covers all software applications/computer programs.
+
+
+20.
+
+. All software or computer programs are nothing but a sequence of instructions
+
+that convert a set of inputs to a set of outputs. This is the definition of an
+algorithm.
+
+. As per 3 k), a mathematical method is not patentable and as computational
+
+methods are a sub-set of @ mathematical methods, a computational method is
+not patentable either.
+
+. Computer programs essentially convert an algorithm. business or a
+
+mathematical method into a sequence of machine executable steps. All
+computer programs are therefore algorithms/mathematical or business
+methods implemented for execution on a computer. As algorithms,
+mathematical or business methods are not patentable under Indian law, no
+software or computer program, which can run on general-purpose machines,
+can be considered patenatable. The only exception, which can 9६ read into the
+Patents Act “compufer program per se”. is that computer programs in
+conjunction with special purpose hardware or equipment. can be considered
+for patenting as a whole, provided it meets all other criteria of patentability
+given in the Act.
+
+. Courts in all parts of the world have held that subject matter which would have
+
+the practical effect of preempting laws of nature, abstract ideas or
+mathematical algorithms is ineligible for patent protection. This age-old and
+time-tested precedent effectively establishes the ineligibility for patent
+protection to laws of nature, abstract ideas and mathematical algorithms. दि
+these could be patented, then in effect one would be patenting the tools of
+scientific enquiry itself. something no patent law allows. as it would lead to
+halting scientific progress.
+
+. Courts have also held that regarding patentable subject that the inquiry into
+
+whether subject matter 1s eligible for patenting is one of substance, not form.
+This requires that one look, not simply at the language of the patent claim to
+see if it recites a structure of multiple steps or components, but 8150 at the
+practical effect of the claim to see if it in fact covers -- or otherwise would
+restrict the public’s access to -- a principle. law of nature, abstract idea,
+mathematical formula, mental process, algorithm or other abstract intellectual
+concept. Otherwise, it would make the determination of patentable subject
+matter depend simply on the draftsman’s art and would ill serve the principles
+underlying the prohibition against patents for 'ideas' or phenomena of nature.
+By skilled patent drafting, one should not be able to start patenting essentially
+abstract ideas, mental processes and newly discovered laws of nature or
+mathematical algorithins.
+
+We are aware that though the Law generally holds that such matters are not
+patentable, a number of patent offices, particularly the US PTO and the EPO
+have been granting patents recently for software also. This has already created
+a situation which Tim Berners-Lee, one of the founders of the World Wide
+
+
+21.
+
+22.
+
+24.
+
+पे
+]l
+
+26.
+
+Web, director of the World Wide Web Consortium that sets global standards
+for the Internet, calls as the biggest threat to software dévelopment.
+
+All companies developing emerging technology are threatened by the
+prospect of patent licensing royalties. You could never find out what
+patent could possibly apply to what technology.J You could never guess
+what things people might have the gall to say they have patented
+already. It really is a universal fear. (Tim Berners-Lee at Emerging
+Technologies Conference at the Massachusetts Institute of Technology,
+September 29, 2004.)
+
+Major software companies such 85 Cisco. Oracle, Adobe and even Microsoft
+earlier have come out against software patents. They have held that copyright
+provides an appropriate level of protection and patenting software is harmful
+to the software and other industries.
+
+It has also been the basis on which the Small and Medium-sized Business
+Community in the EU objected to the formalisation of EPO practice and
+acceptance of software patents. The same argument|would apply to Indian
+software industry 85 well.
+
+. The above clearly shows that no application of mind has taken place in either
+
+undérstanding of the Indian Patents Act or its intentions. While the EPO or घाट
+UK practices could be used by पीट Patent Office to ju J%tify what it seeks to do,
+it cannot do 50 without first identifying the Patents A¢t and practices in these
+countries and the Patents Act and practices in India.
+
+In India, it has been considered patents should be granted only when public
+good demands granting of such state protected monopolies. This was the
+practice also in the UK and the US. It is still the 08515 of the practice in 11051
+countries. It is only in the last few decades that the US, followed by the UK,
+Japan and now the FEuropean Patent Office 1185 tried to change the
+interpretation of their Patents Acts to expand the scope of patentability. This
+attempt to enlarge the scope is from their national interest as they hold the
+largest number of patents. Therefore, their belief that jstrengthening the patent
+regime internationally will help their companies to build world-wide
+
+monopolies.
+
+. It is not in India’s national interest or in the interests' of its people 10 expand
+
+the scope of state protected monopolies through expanding the patent scope.
+India’s national interest is best served by restricting the scope of such
+monopolies. Therefore, the patent regime in India should work on the
+presumption that patents are to be given only when there is a decisive case for
+patents. This has been the basis of the Indian Patents Act and is in tune with
+fundamentals of such legislation world over. It is only the deviation in patent
+interpretation that has produced a scenario where business methods, software
+
+and also mathematical methods are also being patented.
+
+The US Supreme Court has now been correcting 50106 of the excesses that has
+occurred in the US patents interpretation by the Federal Bench. We see no
+
+reason why India should change it understanding of patentability following in
+
+
+the footsteps of the US and the EPO and subsequently need to correct such
+eXCesses.
+
+27. We will not recapitulate the case against software patents. We consider that
+case is now accepted in Indian law and the Indian Patents Act explicitly
+prohibits software patenting. We are only concerned here with the attempt to
+defeat the non-patentability of software patents by an interpretation that runs
+counter to the Indian law.
+
+28. We therefore would suggest that the relevant sections of the Draft Manual
+namely the section 4.11 should be redrafied keeping the legislative intent in
+mind. Otherwise, it will constitute 8 breach of privilege of the Parliament.
+
+Prabir Purkayastha.
+Knowledge Commons
+
+SP Shukla,
+National Working Group on Patent Law
+
+Amit Sengupta,
+
+All India Peoples Science Network
+D-158. Lower Ground Floor
+
+Saket
+
+New Delhi— 110017

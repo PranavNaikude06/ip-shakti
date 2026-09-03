@@ -1,0 +1,1534 @@
+Technalogy Division
+— Plot # 7, ॥ Floor, Regal Houze, Motilal Mehru Nagar,
+WWW.CILEN Begumpet, Hyderabad - 500 016 AP
+Tel: +91-40-277 65 837 Fax: +91-40-277 65 836
+E-mail: ciihyd@aptdc.com www.aptdc.com
+
+Building Perple 16.04.2008
+Building India
+
+(278 Confederation of Indian Thdustry
+
+K SUBODH KUMAR
+Head APTDC & IPR
+
+Dear Mr. V Ravi,
+Manual of Patent Practice and Procedure
+
+At the Outset, please accept my appreciation for the Initiative taken by your esteemed
+department in releasing the Manual for Patent Practice & Procedure. This is a welcome step
+and we look forward for successful implementation of the same.
+
+The IPP. initiatives of CII is led by the ला National Committes of IP Owners which has
+representation from the Captains of more than 50 Industries who from diverse sectors like
+Engineering, Automotive, Information Technology, Biotechnology, Pharmaceuticals, FMCG,
+Electronics etc.
+
+We have enumerated some of our recommendations on the Manual and we request your kind
+attention to consider the best practices and suggestions put forward by our members.
+
+We are also in constant touch with our members to collect further feedback and will keep yau
+posted on some of the impartant ones.
+
+We wish you पीट very best in successful Implementation of the Manual of Patent Practice &
+Procedure.
+
+Warm Regards,
+|. ubodh Kumar)
+
+Encl : 1. Pecommendations on Indian Manual of Patent Practice & Procedurs 2. Case Study
+of Bilski (856 pending before the Supreme Court of US..
+
+Shri V. Ravi
+Controller General of Patents, Dasigns & Trade Marks
+Mumbai
+
+Regional Offices: ० Ch'andngarh ४ Chinnai @ Follaia ¢ Mumbai State/Zonal Offices: न Ahrzdabad e Bangalors e Bhope! e Bhubanesvor e Coimbalore ० Goa
+¢ Gurgaon १ Gwalior ५ Hydzrabad e Indore @ Jaipur @ Jamshedpur e Fochi ० Lucknov: @ Madurai @ Mysore e जि छिप @ Hoida न Paina @ Punc 9 Trichy
+Overseas Offices: ¢ Aighanisian e Ausiralia न Ausir'a e China e Franca 9 Hyngary @ lzrazl e Singapors ¢ South Alrica @ UK e US
+
+
+RECOMMENDATIONS ON MANUAL OF PATENT PRACTISE AND
+PROCEDURE
+
+APRIL 2008
+
+Confederation of Indian Incustry (CH)
+
+Plot 1100. 249-F, Sactor-12; Udyog Vikar,
+Phiaze-IV,Gurgaon-122015, Haryana, पापी
+Fhons जिंदा : +%1-124-4014075
+
+Frhione (Board) @ +21-124-4014080 - &7
+
+चल : +91-124-4014057
+
+
+ANNEXURE - A
+
+General Comments:
+
+(93}
+
+Topics Addressed in 3rd Edition - This third =dition addresses key
+aspects of the many varied topics in India patent law and
+practice. ॥ is a Judicious choice 10 focus on comprehensive
+trecatment of an initial set of topics such as those preszntly listed
+in the third edition. There will always be opportunity to
+methodically add new topics and revise existing topics through
+technrical bulletins and future editions or revisions of the Manual
+as deemed fit by your esteemed office.
+
+General Subsfantive Content We believe the cenfral purpose
+of a practice Manual is to provide common guidance and
+instruction to examiners, practitioners, applicants, and the
+judiciary with regard to patent examination and practice in
+Indic. To the extent possikle, such a Manual ideally contains up
+to date interpretation of applicabls law, and outlines practice
+procedures with examples as appropriate. Whils the Manual is
+not the law, it will serve as a single source of guidance in
+interpreting and  applying  the law  in accordance  with
+leqgislative intent, board of appeal decisions, and judicial
+decisions. Wherever possible, we find it instructive if such a
+Manual contains specific citations to the authaority underying
+each statement or section.
+
+Filing Dates & Electronic Filing A timely national filing date s
+essential for an Applicant to obtain a patent in any Country.
+One common praclice among nafional patent offices, as well
+as the Patent Cooperation Treaty practice, is the ability to
+establish a filing date based on the time/date stamp of certain
+paper-mailing services. This traditional paper procedure has
+
+
+
+also been taken one step further with secure electronic filing
+processes that estaklish ये filing date at the press of an enter
+key. Such paper and/or electronic filing procecdures are widely
+viewed as reliable, convenient, and cost effective. While
+financial and resource challenges exist for a patent office to
+implement and maintain such processes, we believe such
+processes are mutually beneficial for the Applicant and Patent
+Office dlike. We thank you for considering the possibility of
+implementing such processes, and documenting them in the
+context of the present Manual. You may kindly call on our
+member companies if our participation in o pilot program
+would e helpful to work out the details of a paper-mailing or
+electronic filing system.
+
+4,  Published Avdailability From an applicant घाव  practitioner
+perspective, it is helpful when a patent office makes print and
+electronic versions of a Manual available to the public.
+Printable copiss by way of electronically available downloads
+are appreciated. Searchable electronic versions of a Manual
+of this size and complexity are also extremely valuable, as are
+hyperlinks  interconnecting  various  references  within  the
+Manual, case law, codified law, and rules.
+
+Chapter Comments:
+1. Chapler ॥ Preamible and Definitions
+
+a. Section 2.3.8 - The definition of inventive step includes
+inventions having economic significance. While this is not
+stated s था. absolute requirement, it seems not so
+irelevant consideration. An invention lacking in technical
+advancement may have huge economic significance
+while an invention showing great technical advancement
+may not exhibit economic significance until years after
+the patent is granted.
+
+
+|
+
+(n}
+
+C.ml'w«:t;:»’rer ॥ Patentable Subjsct Matter
+
+ection 3.2.1 Novelty is subject to . . . knowledge, oral or
+otherwise, available within any local or incligenous
+community in India or elsewhere before the date of filing
+patent application or date ए priority . . .. Additional clarity
+would be helpful as to what may एस encompassed by an
+cral disclosure. In particular, it is important to know what
+type of evidence would have to be adduced लि an छापा
+cisclosure to form part of the prior art, and how that
+disclosure would be documented.
+
+Section_3.11  Combining rmosaics of prior art requires
+careful consideration when determining inventive step. In
+one of the examples provided in this section, it is stated in
+Technograph सन. Mills चाप Pockley (1972 RPC 346 वी p-
+3551) that . . . when dealing with obviousneass, unlike
+novelty, it is permissible out of relevant documents, but it
+must e mosaic which can be put together by an
+unimaginative man with no inventive capacity. Recall
+that Section 2(1)(a) of the Patents Act provides that
+"Inventive step” means a feature of an invention that
+involves technical advance as comparsd to the existing
+knowledge . . . and that makes the invention 1101 albvious
+to a person skilled in the art. Thus, the test is not whether
+an unimaginative man would put bits and pieces of the
+prior art together in a mosaic fashion to form the
+patented invention, but whether the invention taken in its
+entirety would have been obvious 1o a person skilled लि
+the art. Further study and discussion is needed to
+determine an appropriate relationship betwesen mosaics
+and the inventive step standard in the Patents Act.
+
+Section 3.14.1(a) and (o) Establishing factors involved in
+assessing inventive step are helpful. Clarity as 0 whether
+thess factors are equally weighted  or  differently
+
+
+
+a.
+
+weighted, and how the evaluation might hest proceed
+would ke helpful. Further, it is not clear if the steps
+arficulated in part B of this section are listed in the order
+they are 10 be exsrcised, or how these questions should
+3 applied in the evaluation. ॥ seens, for example, that
+step {d) titled Defining the technical problem 10 be solved
+as the object of the invention to achieve the result is
+among the threshold questions 10 first evaluate before था]
+appropriate search and evaluation of closest prior art can
+be performed. Absent further guidance in this areaq,
+subjectivity and a flawed evaluation of inventive step
+could become problematic.
+
+Section 3.15.1 The definition of a parson skilled in the art 5
+clear, however the characteristics cited in the last three
+sentences of this section seem to go beyond what is
+relevant in identifying a person skilled in the art. We
+believe the only factors that should be evaluated in this
+definition are the technical characteristics relating to
+competence of a hypothetical person in an art.
+
+3. ChapterlV Inventions Not Patentable
+
+a.
+
+Sections 4.11.5 through 7 - Section 3(k) of the Patents Act
+excludes the following from patentability. mathematical
+or business method or a computer program per 5६ or
+cdlgorithms. This tracks the European Patent Convention
+and the discussion in Section 4.11 of the Manual largely
+tracks practice पा the European Patent Office. Thers are,
+however, certain statements that could benefit from
+further clarification.
+
+First, Section 4.11.5 does state that applications related to
+computer inventions may broadly fall under the following
+categories: (a) Method/process: (b)) Apparatus/system:
+(c) Computer program product. It is not clsar, however,
+
+
+as 1o the scope of each of those categories. For example,
+Section 4.11.6 statss the following:
+
+A claim directed वि ये technical process which
+process हि camsd out under the control of ये
+progriamme (whether by means of hardware ar
+software), cannot b2 regarded as relating to a
+camputer progroammes as such, For esample, a
+method for processing seisrmic datd, comprising
+the steps of collecting the fime viarying seismic
+detector output signals for o plurality एव seismic
+sensors placed का a cakle. Hare the signals are
+collected from o definite recited structure and
+hence allowabile.
+
+Section 4.11.6 also states, however, that a Claim orienting
+towards a process/method should contain a hardware or
+machine limitation. We believe that the example of o
+method for processing seismic data is, for example,
+patentable subject matter because it effects a physical
+transformation of physical representations of data. It
+should ke clarified that this is the type of hardware or
+machine limitation that Section 4.11.6 contemplates. As to
+the patentakility of apparatus/systems, we agree with the
+staternent in Section 4.11.7 that as a general rule, a novel
+solution 10 a problem relating to the internal operations of
+a  computer, although comprising a  program  or
+subroutines, will necessarily involve technological features
+of the computer hardware or the manner in which it
+operates and hence may be patentable.
+
+Sections 4.11.8 We request the oppaortunity to comment
+
+further on this subject at a future time. In the mean time,
+please accept the attached copy of an Amicus Brief
+recently submitted by our esteemed member in response
+
+
+10 the related issues in the Bilski case presently pending
+before the United States Supreme Court.
+
+Chapter VII Opposition Proceadings
+
+k.
+
+Comments applicable to_all sections - The grounds for
+opposition and related procedures are clearly stated. The
+numerous examples appear to provide good direction for
+all parties involved including the examining Board of the
+Office.
+
+Section 7.1.1 & 7.2.1 The basis of opposition for pre-grant
+and post-grant oppositions can 9७ that the invention ५
+anticipated by fraditional knowledge such as the oral
+knowledge of an indigenous community. While oral
+disclosures by indigenous peoples are most likely 1o affect
+patents हा medical fislds, we have some general
+concerns about how oral evidence iz taken. There
+appears to be no procedural mechanisms in the Manual
+defining a verification and/or authentication proceeding
+of this oral knowledge. Furthey clasity i needed as 10 the
+verification  and/or authentication process and  the
+standard to be applied. Similar clarity of the verification
+process and standard to be applied is needsd to
+evaluate prior public use व that is stated as a basis for
+opposition.
+
+Section 7.1.2 There appears to be no cutoff date for pre-
+grant opposition once an application is published. This
+may leave the process open to abuse against the
+Applicant as a harassment tactic with litlle to nothing at
+stake by the opposing party. For example, o third party
+could very cheaply file a endless series of oppositions that
+potentially leave the inventor/applicant exhausted and
+with significant procedural expenses. A clear cutoff for
+
+
+pre-grant opposition 15 desirable, such as within a fixed
+rumber of months from the publication date.
+
+cd.  Section 7.2 (Rule 61] Prior art documents may be used 10
+oppose पा. application or granted patent, and the
+procecdures call for the authentication of these
+documents 10 the scatisfaction of the Controller. However,
+no definition or guidance exists as 10 the standard 10 be
+applied to this authentication. Clarity 01 this issue 5
+needed.
+
+5. Chapter XVIIl Working of Patents and Compulsory Licenses
+
+Comments applicable to all sections Compulsory license
+provisions under Indian patent law are understancable
+and चाह specifically dllowsd under the Paris Convention
+and the TRIPS Agreements. There are certain constraints
+under intemational law, however, on the grant of
+compulsory  licenses that चार  intended 1o protect
+legitimate interests of the patent holder. In  that
+connection, Chapter XVIII of the Manual l=aves certain of
+the provisions unclear, which raises some concerns as 10
+how compulsory licensing provisions would actually be
+applied in practice.
+
+.
+
+Chapter XVIl of the draft Manual doss not provicdle a
+great deal of guidance as हि. what is meant by
+recasonably affordable price एप worked पा the territory of
+पापी, Both of these bases for the grant of a compulsory
+license are a source of concem. The first basis could give
+rise to a certain degree of price control. That is, that थे
+determination would kbe made in the context of «
+compulsory licensing application that the price of पथ
+patented product is not affordalzls in the Indian market
+and that a third party is then enabled हि. legally
+
+
+manufacture  that product and sell it for a lower,
+presumably affordable price.
+
+Further, Chapter XVII does not clarify what is meant by
+worked in the territory of India. Generdally. if an invention is
+worked व it is manufactured elsewhere and then made
+available to the pwublic in India, it is generally not a
+problem. If however, the Working recuirement is that the
+procduct has 10 not only be made available in India, but
+actually manufactured there, it would cause problems for
+companiss that manufacture products in one or a smaill
+numiber of central locations for regional or world-wice
+distribution. In this connection, it should be recalled that
+Arficle 27(1) of the TRIPS Agreement provides that patents
+shall be available and patent rights enjoyable without
+discrimination as 10 . . . whether products are impaorted or
+locally produced.
+
+Further discussionn with the Government of India 5
+desirable on this topic to clarify the intent and scope of
+these  compulsory licensing provisions.  ॥. particular,
+clarification is needed on how the provisions wil be
+applied to pricing, manufacturing, and distribution  of
+patented products under conventional commercial
+arrangements.
+
+
+No. 2007-1130
+
+IN THE
+UNITED STATES COURT OF APPEALS
+FOR THE FEDERAL CIRCUIT
+
+IN RE BERNARD L. BILSKI AND RAND A. WARSAW,
+
+Petitioners.
+
+Appeal from the United States Patent and Trademarl: Office,
+Board of Patent Appeals and Interferences
+
+BRIEF OF AMICI CURIAE DELL INC.,
+MICROSOFT CORPORATION, AND SYMANTEC CORPORATION
+IN SUPPORT OF NEITHER PARTY
+
+Carter G. Phillips
+Jeffrey P. Kushan
+SIDLEY AUSTIN LLP
+1501 K Street, N.W.
+Washington, D.C. 20005
+(202) 736-8000
+
+Constantine L. Trela, Jr.
+Richard A. Cederoth
+SIDLEY AUSTIN LLP
+One South Dearborn Street
+Chicago, IL 60603
+
+(312) 853-70000
+
+Counsel for Amici Curiae
+
+
+CERTIFICATE OF INTEREST
+Counsel for dmici Curiae certifies that following पा compliance with
+
+Federal Circuit Rule 47.4:
+
+1. The full name of every amicus represented by me is:
+Dell Inc.
+Microsoft Corporation
+Symantec Corporation
+
+2. The names of the real parties in interest represented by me are:
+None.
+
+3. All parent corporations and any publicly held companies that
+own 10 percent or more of the stock of the amici curiae represented by me
+are:
+
+None.
+4. @ There is no such corporation as listed पा paragraph 3.
+5. The names of all law firms and the partners or associates that
+
+appeared for the amnici now represented by me in the trial court or agency or
+are expected to appear in this Court are:
+
+Carter G. Phillips
+Jeffrey P. Kushan
+SIDLEY AUSTIN LLP
+1501 K Street, N.W.
+Washington, D.C. 20005
+
+
+Constantine L. Trela, Jr.
+Richard A. Cederoth
+SIDLEY AUSTIN LLP
+One South Dearborn Street
+Chicago, IL 60603
+
+Date: April 7, 2008. Respectfully submitted,
+
+Constantine L. Trela, Jr.
+SIDLEY AUSTIN LLP
+One South Dearborn Street
+Chicago, IL 60603
+
+Counsel for Amici Curiae
+
+
+TABLE OF CONTENTS
+
+TABLE OF AUTHORITIES .................. et iv
+STATEMENT OF INTEREST OF AMICI CURIAE ..o, 1
+INTRODUCTTION ८८००८ 2
+DISCUSSION ...ttt et et a e et e e st e sva e e st e e e ebeastseenanenaeebeennes 4
+L. BASIC PRINCIPLES GOVERNING APPLICATION OF .
+SECTION 101. oottt यु 4
+A.  The Statute And Early Precedent. .......cooooiviiiiiiniiii e, 4
+B.  These Fundamental Principles Continue to Apply in the
+Modern EIeCtronic AZE. .............८८८ ८८८८८ ००८०८ पर 7
+1. Gottschalle V. सिशाइठाा, ८८०८-८० पर 8
+2. Parker v. FLOOK दया नाना 9
+3. Diamond v. DI€Rr ...........coouvveoiieiiieiiiiccieiie e 10
+4. This Court’s Application of Benscn, Flook, and Dichr............ 12
+II. APPLICATION OF THE SECTION 101 PRINCIPLES.........ccooeeiniiinnne. 16
+A.  The Requirement of Section 101 That a Patent-Eligible
+Invention Be Physical [5 Satisfied by Computer Software-
+Implemented Processes and Programmed Computers Operating
+Pursuant To Sofiware INStructions. ,........... ८.८८. ८०८८० ८००८८ पद 18
+B. The Court Should Make Clear That “Useful, Concrete and
+Tangible” Is Not An Independent Test Under Section 101. ............... 21
+C.  Concerns With Respect To Claims That Include Only General
+Recitations of Structure Are Properly Addressed Under
+Sections 102, 103, and 112, not Section 101. .....................-.ननन- 24
+पा. ANSWERS TO THE COURT’S SPECIFIC QUESTIONS. .. 27
+CONCLUSION ......................८ ८८०८८ ०८०८ पदन रा 29
+
+i1
+
+
+TABLE OF AUTHORITIES
+
+CASES
+In re Alappat, »
+
+33 F.3d 1526 (Fed. Cir. 1994) (en banc) ....c.coveevvenvennene. 7,14, 15, 20, 21, 23, 27
+Aristocrat Techs. Australia Pty. Lid. v. Intl. Game Tech.,
+
+No. 2007-1419 (Fed. Cir. March 28, 2008) .........ccoriiriiiiieiie e 20, 26
+Arvhyilinia Res. Tech., उस, v. Caranozix Corp.,
+
+958 F.2d 1053 (Fed. Cir. 19920 ..ot 14, 18, 19, 20
+AT&T Corp. v. Excel Comms., Inc.,
+
+172 F.3d 1352 (Fed. Cir. 1999) .ot 21, 22, 23, 29
+
+- Brenner v. Manson,
+
+383 ULS. 519 (1966)............८,८ ८८ यान यु st s 22
+In re Chatfield,
+
+545 F.2d 152 (CCPA 1976) ecovviieieeieeieeteteeieeeeee नर 5
+
+Cochrane v. Deener,
+94 1.5. 780 (1877 ) ettt et e s 5,10
+
+In re Comiskey, ं
+499 F.3d 1365 (Fed. Cir. 2007) ................८ ८०.८८, 7,13, 16, 23, 25, 26, 27
+
+Corning ४. Burden,
+15 HOW. 252 (854) ettt e 19
+
+Diamond ४. Chakrabarty,
+447 U.S. 303 (1980).....................दन.दद-८ दादा 6, 24
+
+Diamond v. Diehr,
+450 TS, 175 (1981 ittt ettt passim
+
+In re Fisher,
+421 F.3d 1365 (Fed. Cir. 2005)... नया 22
+
+Gottschall ४. Benson,
+409 U.S. 63 (1972).............८..८. रन passim
+
+v
+
+
+Harris Corp. v. Ericsson Inc.,
+
+417 F.3d 1241 (Fed. Cir. 2005) ............ ८८ 26
+Labaoratory Corporation of America Holdings v. Metabalite Labs., Inc.,
+
+126 5. Ct. 2921 (2006) ...ttt ettt eneens 7
+Le Roy v. Tatham,
+
+55 (1.5. 156 (18520... ८८०८८ नया s eneas 6
+Mackay Radio & Telegraph Co. v. Radic Corp. of America,
+
+300 ULS. 86 (1939) ...ttt et st s s 12
+In re Maucorps,
+
+609 F.2d 481 (CCPA 1979) ...................८ ८८८०८ et e e 13,23
+In re Meyer,
+
+688 F.2d 789 (CCPA 1982) ceeiiieiiiiiieeee et e 13,23
+
+Microsoft Corp. v. AT&T Corp.,
+127 S. Ct. 1746 (2007 ) .ot 17,20, 21
+
+In re Nuitjen,
+500 F.3d 1346 (Fed. Cir. 2007) «.ooiiiiiiieeeeieccecec e 8, 19, 22
+
+(9 Reilly v. Morse,
+
+S50 ULS. 62 (1853 ittt 8,19
+Parker v. Flook,
+
+437 U.S. 584 (1978) ettt passim
+
+Rubber-Tip Pencil Co. v. Howard,
+87 ULS. 498 (1874) ...ttt 6
+
+In re Schrader,
+22 F.3d 290 (Fed. Cir. 1994) .................. ८ 12,13, 14, 16
+
+In re Sherwood,
+
+Siaie Street Bank & Trust Co. v. Signature Financial Group, Inc.,
+149 F.3d 1368 (Fed. Cir. 1998) e, 7,15,21,22,23,29
+
+
+Tehrani v. Hamilton Med., Inc.,
+
+331 F.3d 1355 (Fed. Cir. 2003) ..............८- ettt 26
+The Telephone Cases, .
+
+126 .S, 1 (1888)...............८..८८.८ ८८८०८ पाया e 19
+In re Warmerdam, |
+
+33F.3d 1354 (Fed. Cir. 1994) ....................- ८८ रमन 13
+WMS Gaming Inc. v. Int’l Game Tech.,
+
+184 F.3d 1339 (Fed. Cir. 1999) oottt 26
+CONSTITUTIONAL PROVISIONS AND STATUTES
+.S, Const. Art. 1, है है... दर्द दर न न 4
+Patent Act एव 1793, दी. 11, $ 1, 1 Stat. 318 .o 5
+351.5.0. $ 101 et e passim
+35 ULS.C. $ 102 ettt 4,24, 25,27
+B5ULS.C.§ 103 et e 4,24, 25, 26, 27
+35 (5.0. $ 112 दर दया कुकर 4, 24, 25, 26, 27
+
+OTHER AUTHORITIES
+
+1 D. Chisum, Patents $ 1.01 (1993) .ot e 5
+H.R. Rep. No. 1923, 82d Cong., 2d Sess., 6 (1952), reprinted in 1952
+
+USCCAN 2394 अकाल 6
+Ron White, How Computers Work (Sth ed. 2000).......ccov i 20
+5. Rep. Mo. 1979, 82d Cong., 2d Ses5., 5 (1952) cceiiiiiii या 6
+
+vi
+
+
+STATEMENT OF INTEREST OF AMICI CURIAE
+
+Amici Curiae Dell Inc., Microsoft Corporation, and Symantec
+Corporation are leading computer, information technology, and software
+companies. Although their interests with respect to many legal questions diverge,
+Amici join in urging this Court to adopt a standard for determining whether process
+inventions satisfy 35 U.S.C. § 101, which will gzive meaning and effect to the
+statutory language and provide needed guidance to the Patent and Trademarlk
+Office, the lower courts, and the patent bar.
+
+Amici both own process patents and घाट {requently defendants in suits
+alleging infringement of such patents owned by others. They thus have a profound
+interest in the standard that governs whether such patents claim patent-eligible
+subject matter. They 8150 have an interest in the patent system as a whole and in
+the harm done to that system by the issuance of patents that claim nothing more
+than abstract concepts. By requiring that process inventions, like machines,
+manufactures, and con1posif1'ons of matter, must be physical in nature and must
+produce a result that has specific practical utility — a reault that 15, in this Court’s
+words, “useful, concrete and tangible” — this Court can restore 0021 balance to
+
+the system and provide guidance (0 the courts, the PTO, the bar, and the public.
+
+
+INTRODUCTION
+
+The Bilski patent application claims a process — specifically, “a
+metho‘d for managing the consumption risk costs एव a commaodity.” The claimed
+process neither requires the use of a machine or other apparatus, nor effects a
+transformation of physical subject matter into a different state or thing. The
+claimed process 15, however, arguably useful, with practical, real-world
+applications. The question before the Court, then, is whether such 8 process,
+unbounded by any physical limitations but with practical utility, is a parentable
+process within the meaning of 35 U.S.C. रु 101.
+
+It is not. In the trilogy of Benson, Flook, and Dichr, the Supreme
+Court sei out the principles that govern whether a process claim describes patent-
+eligible subject matter under Section 101. Those principles require that, to be
+eligible for patenting, a process must be more than merely an abstract idea or
+concept, even if it unquestionably 15 a useful abstract idea or concept. Rather, a
+paicniable process must make use of or operate upon something physical, be it
+uncured rubber, or electrical circuitry, or signals made up of electrons or photons
+or electromagnetic impulses. This requirement 15 apparent in the Supreme Court’s
+repeated direction that a “process” within the meaning of Section 101 must be tied
+to a specific apparatus or must effect the transformation or reduction of subject
+
+matter (0 a different state or thing. Although the Supreme Court has never
+
+
+attempted an exhaustive articulation of how (0 demonstrate that a process claim
+defines non-aLb"tra;ct, patent-eligible subject matter, it also has never suzgested that
+8 physical foundation is unnecessary. This understanding of “p 5” as tied (0
+something fundamentally physical in nature places process inventions on the same
+footing as the other Section 101 categories — machine, manufacture, composition
+of matter — all of which are physical by definition.
+
+These principles are easily applied to the process claims at is3ue here,
+which can be construed to consist of nothing more than “mental steps” that neither
+effect a transformation of physical subject matter nor are tied to a specific
+apparatus. Such “mental steps,” divorced from any physical foundation, do not
+constitute a patentable process. In contrast, when 165 of steps 15 tied to a
+particular apparatus or effects a transformation of physical subject matter, and
+produces a useful, concrete and tangible result, a patent-eligible invention under
+Section 101 has been claimed. As applied 10 software-related inventions, these
+fundamental principles lead to the following conclusions:
+
+Computer-implemented processes that produce useful,
+concrete, and tangible results are patent-eligible subject
+matter for at least two reasons: (1) they are tied to the
+use of a specific apparatus — a programmed computer,
+and (2) they effect a physical transformation, specifically,
+the transformation of physical subject matter (e.g,
+
+electrical or electromagrnetic signals) into different
+physical subject matter.
+
+
+u A computer that has been programmed to implement
+particular software instructions is itself patent-eligible
+subject matter, i.e., a machine. It has distinct physical
+properties relative to an unprogrammed, or differently
+programmed, computer.
+
+= This does not mean that an unpatentable abstract idea can
+become patentable merely by reciting that a computer
+should be used. Although such a recital may satisfy
+Section 101, that is only the first step on the road to a
+patent. Concerns with respect to the patentability of
+claims that include only general references to a computer
+or other apparatus are properly addressed not by
+engrafting unwritten requirements onto Section 101, but
+rather by rigorously enforcing Sections 102, 103, and
+112. :
+
+By making clear that patent-eligible processes must be physical, this
+Court can rationalize seemingly inconsistent precedent, subject process inventions
+to the same fundamental requirement that applies to machines, manufactures, and
+compositions of matter, and provide the PTQ, the lower courts, and the public with
+a standard that will enable them to determine which inventions satisfy the
+Section 101 threshold, and which do not.
+
+DISCUSSION
+
+L. BASIC PRINCIPLES GOVERNING APPLICATION OF
+SECTION 101.
+
+A.  The Statute And Early Precedent.
+The Constitution’s Patent Clause empowers Congress to “promate the
+Progress of Science and the Useful Arts....” U.S. Const. Art. 1, § है. Congress has
+
+implemented this grant in Section 101 by identifying certain subject matter, the
+
+
+invention or discovery of which may merit a patent: “Whoever invents or
+discovers any new and useful process, machine, manufacture, or composition of
+matter, or any new and useful improvement thereof, may obtain a patent therefor,
+subject to the conditions and requircments of this title.” 35 U.S.C. § 101. The
+terms used in Section 101 have been used for over 200 years — since the
+beginning of the American patent system — to define the scope of patent-eligible
+subject matter. See In re Chatfield, 545 F.2d 152, 159 (CCPA 1976) (Rich, J.,
+dissenting); 1 D. Chisum, Patents § 1.01 (1993).
+
+Thus, the Patent Act of 1793 delined statutory s»ubject matter as “any
+new and useful art, machine, manufacture or composition of matter, or any new or
+useful improvement [ihereof].” Act of Feb. 21, 1793, घी. 11, § 1, 1 Stat. 318.
+Although “process” did not appear in the statute until 1952, it is scttled that this
+change in language was not a change in substance, लि the original statutory term,
+“art,” encompassed processes. Se¢ Diamond v. Dichr, 450 1J.S. 175, 182 (1981)
+What qualified as a patent-eligible “art” or process 15 also settled. As पाए Supreme
+Court explained in Diehr, “the nature of a patentable process” had been “defin[ed]”
+over 100 years earlier: “A process is a mode of treatment of certain materials to
+produce a given result. It is an act, or a series of acts, performed upon the subject-
+matter (0 be transformed and reduced to a different state or thing....” Diehr, 450
+
+U.S. at 183, gquaiing Cochrane v. Deener, 94 1.S. 780, 787-88 (1877).
+
+
+To be sure, Section 10175 description of patent-eligible subject matter
+15 broad, intended by Congress to “include anything under the sun that is made by
+man.” S. Rep. No. 1979, S2d Cong., 2d Sess., 5 (1952); H.R. Rep. No. 1923, 82d
+unquestionably not without boundaries. See Dichr, 450 1J.S. at 185 (“[E]very
+discovery 15 not embraced within the statutory terms.”) (emphasis added). Most
+fundamentally, patent-eligible subject matter cannot be abstract. Thus, as early as
+Le Roy ४. Tatham, 35 U.S. 156 (1852), ithe Supreme Cowrt explained that “[a]
+principle, in the abstract, 15 a fundamental truth; an original cause; a motive; these
+cannot be patented, as no one can claim in either of them an exclusive right.” उप, at
+175. Since then, the principle that abstract ideas are unpatentable has repeatedly
+been confirmed. See, e.g., Rubber-Tip Pencil Co. v. Howard, 87 1U.S. 498, 507
+(1874) (“An idea of itself is not patentable™); Dichr, 450 U.S. at 185; जि V.
+Chakrabarty, 447 U.S. 303, 309 (1950) (“The laws of nature, physical phenomena,
+and abstract ideas have been held not patentable.”); Parker v. Flook, 437 U.S. 584,
+589 (1975); Gottschalk v. Benson, 409 1.8, 63, 67 (1972),
+
+From the text of the statute and the Supreme Cowrt’s consistent
+construction of that text, then, two prerequisites for patent-eligible subject matter
+can be discerned. Tirst, a patent-elizible invention, whatever its form, 15
+
+fundamentally physical — a machine, manufacture, composition of matter, or
+
+
+process (“an act, or a series of acts, performed upon the subject-matter to be
+iransformed ...,” Cachrane, 94 1J.S. at 787-8S). And, second, although a patent-
+eligible invention may not consist of an abstract idea, law of nature, or physical
+phenomenon, the application of an abstract idea, law of nature, or physical
+phenomenon to produce a new machine, manufacture, or composition of matter
+having a useful, concrete and tangible result may be patent-eligible.
+
+B. These Fundamental Principles Continue to Apply in the Modern
+Electronic Age.
+
+These principles, despite their age and their roots in the pre-electronic
+era, remain the touchstone for applying Section 101. The Supreme Court made
+this clear in Diehr, and its predecessors, Benson and Flook, all of which presented
+claims that involved, in one way or another, computer-related technology.' This
+Court, (00, has recognized that Benson, Flook, and Dichr continue to provide the
+foundation for the Section 101 analysis, regardless of the technology or field of
+endeavor involved. See, e.z., In re Alappat, 33 F.3d 1526, 1543-44 (Fed. Cir.
+1994) (en banc); Staie Sireei Bank & Trust Co. v. Signature Financial Group, Inc.,
+
+149 F.3d 1368, 1373 (Ted. (पा. 1998); In re Comiskey, 499 F.3d 1365, 1375-76
+
+' More recently, although the Supreme Court has not squarely confronted
+
+Section 101, several Justices have made clear that the Court’s prior decisions
+continue to apply. See Labaratory Corporation of America Haldings v. Metabolite
+Labs., Inc., 126 5. Ct. 2921, 2925-28 (2006) (Breyer, J. dissenting, joined by
+Stevens, J. and Souter, व. (citing Benson, ¢t al.).
+
+
+(Fed. (वा. 2007); Iz re Nuitjen, 500 F.3d 1346, 1363-64 (Fed. Cir. 2007). As an
+examination of the controlling precedent makes clear, that Section 101 foundation
+is physical.
+
+1. Gottschalk v. Benson
+
+The applicant in Benson sought to patent “a method of programming a
+general-purpose digital computer.” 400 U.S. at 65. The claims were not limited to
+any particular apparatus or end use, id. at 64, but their result — converting binary-
+coded decimals into pure binary numerals — was indisputably useful, id. at 65.
+The claims also described a “process,” as ordinarily understood. See Flook, 437
+U.S. at 588-89 (Benscn claims described a “process”).
+
+They did not, however, describe a parentable process. The claims पा
+Benson recited only “a generalized formulation for programs to solve mathematical
+problems of converting one form of numerical representation to another.” 409
+U.S. at 05. Although “programs may be developed as specific applications” from
+“the generic formulation” of the claims, id., Benson’s claims did not purport to do
+so. Rather, they were “abstract and sweeping,” id. at 68, and नि understood,
+sought “a patent on the algorithm itself.” Id. at 71-72.
+
+In this sense, the Benson claims suffered from the same defect 85
+Samuel Morse’s broad claim to any use of electromagnetism to produce signs for
+
+telegraphy, which the Court rejected in O’Reilly v. Morse, 50 U.S. 62 (1853). Just
+
+
+as Morse’s eighth claim sought (0 patent 8 fundamental principle without tying it to
+specific process steps or a specific apparatus, 50 (00 did the claims in Benson seek
+to patent an absiract idea, a mathematical algorithm. Maorse, however, unlilze
+Benson, also claimed specific physical process steps and an apparatus, which made
+his other claims patentable. Id. at 123. It was in this context that the Court in
+
+.1
+
+EBenson, relying on its 19th Century precedents concerning “aits
+
+9y _
+
+Ol Processes,
+explained that the “clue to patentability” एव a process claim is that the process as
+claimed must be “tied to a particular machine or apparatus or must operate to
+change articles or materials to a ‘different state or thing.”” 409 1J.S. at 70-71.
+Although other such “cvlues” conceivably might exist, /7. at 71, Benson’s “abstract
+and sweeping” claims पीते not describe a patent-eligible process.
+
+2. Parker v. Flook
+
+The fundamental principles articulated in Bensan were easily applied
+to the claims at issue in Flook. Those claims, according to the Supreme Court,
+0४626 only “a formula for computing an updated alarm limit,” 437 U.S. at 586,
+a numerical parameter used in chemical processes. The Court assumed that the
+formula was useful, id. at 588, and it agreed that the claims literally described a
+“process,” id. That “purely literal” definition, however, was not the ck;ﬁnition
+
+contemplated by Section 101. Id.
+
+
+In reaching this conclusion, the Supreme Court held, as it had in
+EBenson, that a patent-eligible “process” 15 physical in nature — i.¢., “tied to a
+particular apparatus™ or operating “to changze maierials (0 a ‘different state or
+thing.”” Id. at 589, quoiing Cochrane, 94 11.S. at 787-S8. Although the Flaok
+claims referred to mrtvicular catalytic conversion processes, they provided no
+disclosure of those process steps. 7. at 586. As the Court explained in Dichr, the
+Flool ¢claims “did not purpori to explain how the variables used in the formula
+were to be selected,” 450 U.S. at 192 n.14, nor did they “contain any disclosure
+relating to the chemical processes at work, the monitoring of the process variables,
+or the means ए setting off an alarm system.” /4. at 187. The Flook claims also
+were not tied to any particular apparatus, either for implementing the claimed
+method itself or [or the underlying chemical processes. See 437 U.S. at 596-97.
+The claimed invention was, in short, nothing more than an improved method of
+mathematical calculation — हर. an abstract idea and not the kind of process
+covered by Section 101. Id. at 593-95.
+
+3. Diamond v. Diehr
+
+The claims in Dichr were, on a superficial level, very similar to those
+in Floolk: they described the use of a mathematical formula to improve the
+operation of an industrial process. The relevant teaching of Dichr emerges from
+
+consideration of the Jdifferences between the Flook and Dichr claims.
+
+10
+
+
+The key difference 15 that, unlike the claims in Flook (and Benson),
+the claims in Dichr described a step-by-step process for converting one physical
+substance, uncured rubber, into anather, precision-cured rubber. They did not
+merely claim, as in Benson, का algorithm for converting one form of number into
+another, 450 1J.S. at 1585-86, nor did they claim, as in Flock, ““a formula for
+computing an updated alarm limit,”” id. at 187, quoting Flack, 437 U.S. at 5806.
+Although the Benson and Flook inventions both could be put to practical use as
+parts of patentable processes, the claims themselves did not describe such
+processes. The Diehr claims did:
+
+That respondents’ claims involve the transformation of
+
+an article, in this case raw, uncured synthetic rubber, into
+
+a different state or thing cannot be-disputed. The
+
+respondents’ claims describe in detail a step-by-step
+
+method for accomplishing such, beginning with the
+
+loading of a mold with raw, uncured rubber and ending
+
+with the eventual opening of the press at the conclusion
+
+of the cure. Industrial processes such 85 this are the types
+
+which have historically been eligible to receive the
+protection of our patent laws.
+
+450 U.S. at 184.
+
+The mere fact that the Diehr process made use of a mathematical
+formula, and & computer, did not change the patent-eligible nature of the claimed
+process. The Court explained that although a formula or fundamental principle 15
+
+८६ 99 cca
+
+not patentable “in isolation,” “a novel and useful structure created with the aid” of
+
+that formula or principle satisfies the Section 101 threshold. उठ, at 188, guoting
+
+11
+
+
+Mackay Radic & Telegraph Co. v. Radio Corp. of America, 306 U.S. 86, 94
+(1939); see alsa Dichr, 450 U.S. at 192, The decisions in Benscon and कल, the
+Court explained, “stand for no more than these long-established principles.” उप, at
+185. Accordingly, a process that employs particular machines or effects the
+transformation of physical subject matter (0 a different state or thing 15 a “useful
+structure,” and thus patent-eligible. /4. at 184, 192. And, although the Court
+again signaled, as it had in Benson and Flook, that “particular machines” or
+“transformation and reduction” may not be the only indicia of a patent-eligible
+process, id. at 192, the Court left no doubt that such a process 15, like other
+Section 101 subject matter, physical in nature.
+
+4. This Court’s Application of Benson, Flook, and Diehr.
+
+This Cowrt consistently has applied these principles since the
+decisions in Benscon, Flook, and Dichr. This is evident, for example, in decisions
+rejecting claims (0 processes that consisted entirely of s0-called “mental steps.”
+Thus, in In re Schrader, 22 F.3d 290 (Fed. Cir. 1994), this Court held unpatentable
+a “method constitut[ing] a novel way एव conducting auctions” by allowing
+competitive bidding on a plurality of related items. IJ. at 291. The fact that the
+process utilized machines was not determinative. Twao of the alleged machines —
+8 “display” in the {ront of the auction room and “a closed-circuit television system”
+
+for bidders in different cities — were not claimed, and the third — a “record” 11
+
+12
+
+
+which bids could be entered — did not perform any particular function, and could
+have been “a piece of paper or a challdboard.” 7. at 293-94. The patent, therefore,
+impermissibly claimed 8 series of “mental steps.”
+
+Similarly, in दी re Warmerdain, 33 ¥.3d 1354 (Fed. Cir. 1994), a
+process for controlling objects to avoid collisions was unpatentable because the
+claims described “nothing more than the manipulation of basic mathematical
+constructs, the paradigmatic ‘abstract idea.”” उ at 1360. A machine was not
+पुरा, id. at 1358, nor did the process transform any physical subject matter.
+See also In re Meyer, 658 F.2d 789, 795-05 (CCPA 1982) (“a mental process that a
+neurologist should follow” held not patentable because “not limited to any
+otherwise statutory process, machine, manufacture, or compaosition of matter.”); In
+re Mauccorps, 609 F.2d 481, 486 (CCPA 1979) (invention “di.rcx':tm‘l toward
+optimizing the organization of sales representatives” held unpatentable).
+
+Most recently, in In re Comiskey, the Court held that claims to an
+arbitration method that required no apparatus and did not describe “a process of
+manufacture or a process for the alteration of a composition of matter,” 499 F.3d
+
+at 1379, are not patent-eligible under Section 101. The claims essentially sought 10
+
+? Indeed, underscoring that patent-eligible subject matter must be physical, the
+Court held that Warmerdam’s Claim 5 was a claim to “a machine,” and thus “is
+clearly patentable subject matier.” 33 F.3d at 1360. Claim 5 simply claimed “A
+machine having a memory which contains data representing a bubble hierarchy
+generated by the method of any of Claims 1 through 4.” 1d4. at 1358.
+
+I3
+
+
+patent “the use of mental processes to resolve a legal dispute.” They were, like the
+claims in Schrader, “directed to an abstract idea itself rather than a statutory
+category” of patentable subject matter. 1d.
+
+The requirement that a patentable invention have घ physical
+foundation is evident 835 well in this Cowrt’s decisions approving claims that
+involved, in some fashion, mathematical alzorithms, abstract concepts, or
+fundamental principles. In Arrhiythimia Res. Tech., Inc. v. Coranozix Corp., 958
+F.2d 1053 (Fed. Cir. 1992), the Court considered a patent on a process and
+appa\ratus “for detecting and analyzing a specific heart a\..“tivlity signal....” Id. at
+1058. पु पर्टलिाउऐका। argued that the claims were unpatentable because they
+embodied an abstract process or mathematical algorithm. The Court rejected that
+characterization because the claimed process physically transformed electrical
+signals generated by वे particular apparatus. As the Court explained, the “claimed
+steps of ‘converting,” ‘applying,” ‘determining,” and ‘comparing’ are physical
+process steps that transform one physical, electrical signal into another.” 1.
+at 1059. This process involving physical subject matter satisfied Section 101.
+
+The Court has applied the same analysis to machine or apparatus
+claims. In Alappai, फिर applicant claimed a machine, a “rasterizer,” which
+'employed circuits configured using mathematical algorithms to transform a
+
+waveform for display in an oscilloscope. The Court had little difficulty concluding
+
+14
+
+
+that an electrical apparatus configured to transform particular electronic signals
+into different signals was a “machine” under Section 101, and the fact that its
+circuits were configured using mathematical concepts did not remove it from
+Section 101°s coverage. 33 F.3d at 1544-45. Moreover, because the claimed
+machine produced a “useful, concrete, and tangible result,” it could not be said (as
+was true in Bensorn) thai फीड claims effectively claimed only an abstract concept. It
+was pateni-eligible subject matter under Section 101. 4. at 1544.
+
+To the same effect 15 तार Sireei Bank. The claims there described a
+machine, in means-plus-function form, and the specification disclosed the requisite
+siructure. 149 F.3d at 1371. A “machine,” consisting of specific physical
+components, is Section 101 subject matter. /7. at उठ, [t was true, as in 4lappat,
+that the claimed machine made use of mathematical operations. Id. It was
+undisputed, however, that the machine produced, as in 4lappat, a “useful, concrete,
+and tangible result.” Id at 1375. The claimed invention, therefore, was not
+“merely abstract ideas constituting disembodied concepts or truths,” id. at 1373. It
+
+complied with Section 101.
+
+The governing principles are clear. The range of patent-eligible
+subject matier 15 very broad, but it 15 not unlimited. Among other limitations, it
+
+does not include abstract concepts. To be patent-eligible under Section 101, an
+
+15
+
+
+invention — whether process, machine, manufacture, or composition of matter
+must be physical in nature; where a process is concerned, this means that the
+claimed sieps must be tied to a particular apparatus or effect a transformation of
+physical subject matter. Moreover, (0 ensure that a claim to what appears to be
+patent-eligible subject matter is not in reality a claim to an abstract concept, the
+claimed invention must produce a “useful, concrete and tangible result.”
+
+II. APPLICATION OF THE SECTION 101 PRINCIPLES.
+
+Measured against these principles, the Bilski claims plainly do not
+describe patent-eligible subject matter. The claimed invention, although it may
+have some practical utility, encompasses an abstract concept. It is neither tied to 8
+particular apparatus, nor does it (ransform physical subject matter. It is thus
+indistinguishable from the inventions in Flaok, Schrader, Camiskey, and other
+cases which involved arguably useful concepts where the claims when properly
+construed were whaolly lacking in physical substance.
+
+This Court’s decision, however, will have significance far beyond
+Bilsli’s claim to a method for managing risl:, for the principles that govern what is
+patent-eligible sﬁbject matter under Section 101 apply ५ all inventions, regardless
+of form, and all technologies, regardless of field. In particular, this Cowit’s
+
+decision is likely to have direct application to information technology-related
+
+16
+
+
+inventions, including those implemented in software, combinations of software and
+hardware, firmware, and other current and future formats.
+
+With respect to an invention implemented in software, a patentable
+claim must include physical limitations — i.e., it must effect a physical
+transformation of subject matter or be tied to a particular apparatus. Software-
+implemented processes do just that in that they are tied to a specially programmed
+computing device and effect a transformation of physical matter, such as electrical
+or electromagnetic signals. Before software can be contained in and continuously
+performed by a computer, an actual physical embodiment of the software must be
+delivered by CD-ROM or some other means capable of interfacing with a
+computer. See Microsaft Corp. v. AT&T Corp, 127 S. Ct. 1746, 1756 (2007).
+.This is in contrast to the concept of seftware detached from any physical
+embodiment or activating medium, which, at that basic level, is merely a set of
+instructions. Id. The way in which this Court draws the line between that which पड
+sufficiently physical and useful to zatisfy Section 101 and that which 15 a mere
+abstract concept thus will have direct application to the Section 101 analysis of
+claims that involve computer software. Amici therefore propose the following
+
+approach.
+
+17
+
+
+A.  The Requirement of Section 101 That a Patent-Eligible Invention
+Be Physical Is Satisfied by Computer Software-Implemented
+Processes and Programmed Computers Operating Pursuant To
+Software Instructions.
+
+That software-related inventions must have a physical foundation is
+the inescapable conclusion of Benson, Flaok, and Diehr, and this Cowrt’s decisions
+in their wak:e. What that means at a practical level may be less clear, but .4mici
+submit that the Supreme Court’s analysis of computer-related pr inventions
+vand this Court’s analysis of computer-relaied machine claims point to the answer.
+
+As for process inventions, the “clues” to their patentability घाट well
+settled and directly applicable to software-implemented processes. At the most
+basic level, a classic industrial process, like the rubber-curing process in Dichr,
+
+[3
+
+that is implemented using computer software plainly “is performing a function
+which the patent laws were designéd to protect (e.g., transforming or reducing an
+article to a different state or thing).” 450 U.S. at 192. The use of a programmed
+computer in an otherwise patent-eligible process does not remove it from the
+coverage of Section 101. 14. at 1S7. Moreover, 85 this Court has made clear, the
+physical subject matter that underzoes a physical transformation can include
+elecirical signals, electromagnetic signals, and the like. “[Clomputer-performed
+operations transform a particular input signal to a different output signal, in
+accordance with the internal structure of the computer as configured by electronic
+
+mnstructions.” Arrhyihinia Reszarch, 958 F.2d at 1060. Th rerations
+
+18
+
+
+“convert[] one physical thing into another physical thing,” I re Sherwaod, 613
+[.2d 809, S19 (CCPA 1980), i.e., they perform “a function which ihe patent laws
+were designed to protect.” Dichr, 450 U.S. at 192. Sce also Nuitjen, 500 F.3d
+ai 1355 (a “signal made of electrical or electromagnetic variances ... 15 physical
+and real.”); id at 1356 (an electric or electromagnetic transmission “is man-made
+and physical — it exists in the real world and has tangible causes and ही ects™).?
+So long 85 the product of these physical operations 15 not a mathematical
+abstraction, but rather 15 of “practical utility and specified application,” Arrhythmia
+Research, 958 F.2d at 1061 — which will typically be the case — the threshold
+requirements of Section 101 have been satisfied.
+
+Consideration of the other “clue” to patentability — that a patent-
+eligible process be “tied to a particular machine or apparatus,” Benson, 409 U.S.
+at 70-71 — leads to the same conclusion. A computer operating pursuant to
+
+software instructions 15 “a particular machine or apparatus” — in the words of
+
+* That the subject matier on which a patentable process operates may include
+electrical and electromagnetic signals 15 a well-established principle, long
+predating computer-related technology. For example, Alexander Graham Bell’s
+process of transmitting speech employed electricity, “one of the forces of nature....
+The art consisis in 50 controlling the force as (0 male it accomplish the purpose,”
+which Bell did by “changing the intensity of a continuous electric current.” The
+Telephone Cases, 126 11.S. 1, 532 (1888). See alsa Corning v. Burden, 15 How.
+252, 207-68 (1854) (a patentable process may employ “some element or power of
+nature”); Nuiijen, 500 F.3d at 1368 (Linn, J. dissenting) (discussing approved
+process claim in (0 Reilly v. Morse, which used electromagnetism).
+
+19
+
+
+Arrhythmia Research, its “internal stiucture™ has been “configured by electronic
+instructions.” 958 F.2d at 1060. Programming “creates a new machine, because a
+general purpose computer in effect becomes a special purpose computer once it 15
+programmed to perform particular functions pursuant to instructions from program
+software.” Alappar, 33 F.3d at 1545; see also Avistocrat Techs. Australia Pty. Ltd.
+४. Intl. Game Tech., No. 2007-1419, slip op. at 8 (Fed. Cir. March 28, 2008).* The
+fact that the program software, divorced from the computer or other physical
+medium, might be termed an algorithm or might incorporate mathematical
+concepts is irrelevant. All machines operate pursuant to algorithms, and c«)mpute'rs
+घाट no different. Once the alzorithm or software takes physical form as part of a
+computer (or other machine), Section 101 is satisfied, for “a computer ... 15
+apparatus, not mathematics.” Alappai, 33 F.3d at 1545; या Micrasaoft Corp. v.
+AT&T एल, 127 S. Ct. at 1750 (machine within scope of patent’s apparatus claim
+is created when computer is programmed with software).
+
+The relevant Section 101 principles thus come down to this where
+
+computer software-related inventions are concerned: (1) A software-implemented
+
+* This analysis rests on 8 solid technological foundation. When a program is
+installed on a computer, the program instructions change the machine’s physical
+structure by aligning pairs of bands of magnetically-charged particles on the hard
+disk, with each pair corresponding to a “1” or “0” of the object code and causing
+one of the processor’s internal switches to open or close. Ron White, How
+Computers Work, 144-45 (8th ed. 2006).
+
+20
+
+
+process 15 patent-eligible under Section 101 for two separate reasons — it effects a
+physical transformation एव physical subject matter, ताकत it is tied to a particular
+apparatus, the “special purpose” programmed computer; and (2) A programmed
+computer 15 itself patent-eligible subject matter under Section 101 because it is a
+new machine, having different physical properties relative to an unprogrammed or
+differently programmed computer
+
+B. The Court Should Make Clear That “Useful, Concrete and
+Tangible” Is Not An Independent Test Under Section 101.
+
+Despiie the clear precedent, it has been suggested that whether 8
+process effects 8 physical transformation or 15 tied to a particular apparatus 15
+beside the point, that the real test under Section 101 is simply whether a claimed
+process produces a “useful, concrete and tangible result.”” 4mici submit that this
+view rests on a misreading of this Court’s decisions and that the रा hanc Court
+should dispel this misconception.
+
+- ¢
+
+The cases in which the “useful, con nd tangible” phrase
+
+appat, Siate Strect, and AT&ET Corp. v. Excel Comms., Inc., 172
+F.3d 1352 (Fed. Cir. 1999) — all involved claims with physical limitations that
+satisfied the essential requirement of Section 101 as articulated by the Supreme
+
+Couwrt. As the Supreme Court 8150 made clear, however, physical limitations do
+
+* See, .z, Opening Brief of Appellants (March 12, 2007), at 10-11; Brief for
+Amicus Curiae AIPLA (April 30, 2007), at 13-15.
+
+21
+
+
+not necessarily satisfy Section 101, if the practical effect of allowing the claim,
+viewed as a whole, would be to grant patent rights on an abstract idea or
+fundamental principle. See, ¢.2., Dichr, 450 1J.S. at 191; Flook, 437 U.S. at 590;
+Benson, 409 1J.S. at 72-73. Thus, where a process claim incorporates an abstract
+idea or fundamental principle, Section 101 requires confirmation that the claim is
+not simply a dressed-up version of that idea or principle — that is, does the
+claimed process, viewed as a whole, have specific, practical utility? See, ¢.g.,
+Dichr, 450 U.S. at 157. This Court’s “useful, concrete and tangible” formulation 15
+a useful analytical tool to confirm that को invention that is sufficiently physical in
+nature 15 indeed patent-eligible under Section 101. It does not, however, function
+85 a stand-alone test or alternative to the requirement that a patent-elizible
+invention have a physical foundation. See Nuiijen, 500 F.3d at 1354 (Stare Street
+did न hold that the Section 101 inquiry is “subsumed विधि an overarching
+
+question about patentable utility.”).
+
+§ Confusion on this score has arisen, in part, because of the similarity of this
+inquiry to the independent Section 101 requirement that a claimed invention
+possess practical utility. See Brenner v. Manson, 383 पा.5. 519, 528-29 (1966); In
+re Fisher, 421 F.3d 1365, 1371 (Fed. (पा. 2005) (patentable invention must have
+“real world value”). As the Supreme Court held in Brenner, “a patent 15 not a
+hunting license. It is not a reward for the search, but compensation for its
+successful conclusion.” 383 U.S. at 536. The practical utility requirement
+reflected in फिट “useful, concrete and tangible” inquiry operates to enforce this
+independent statutory requirement.
+
+22
+
+
+This 15 clear from Alappat and Staie Street, both of which first
+determined that the claims at issue presumptively described Section 101 subject
+matter — machines — and only then addressed the machines’ “useful, concrete
+and tangible” output. See Alappar, 33 F.3d at 1544; तार Street, 149 F.3d at 1373.
+[t is clear as well from the myriad cases in which claimed inventions that produced
+useful results were nevertheless held unpatentable under Section 101 because they
+were “abstract” — i.e., non-physical. See, ¢.2., Flaok, 437 U.S. at 590; Benson,
+409 U.S. था 72-73; Meyer, 658 F.2d at 790; Maucorps, 609 F.2d at 486; Comiskey,
+499 I 3d at 1375-76. To the extent that confusion exists on this score, it may flow
+from AT&T v. Excel and itz suggestion that physical imitations are urelevant when
+process claims are at issue. 172 F.3d at 1358. But the claims there in fact included
+physical limitations, requiring “the use of computers and switches,” id. at 1355,
+and called for processing “throuzh switching and recording mechanisms to create a
+signal useful for billing purposes,” id. at 1355. 25 this Court explained पा
+Comiskey, the Excel process claims satisfied Section 101 “because they claimed
+practical applications and were tied to specific machines.” 499 F3dat1377 &
+n.14 (emphasis added). The question whether a process can be patented in the
+absence of physical limitations therefore was not presented in Excel, so any
+suggestion that such limitations are not required is not only contrary to controlling
+
+precedent, but also is dictum.
+
+23
+
+
+C. Concerns With Respect To Claims That Include Only General
+Recitations of Structure Are Properly Addressed Under
+Sections 102, 103, and 112, not Section 101.
+
+The approach outlined above is subject to the criticism that its
+requirements can be easily circumvented, that an abstract series of steps can be
+converted into Section 101 subject matter merely by reciting, for example, that the
+steps should be implemented using a computer, and that a more stringent
+Section 101 standard is necessary. This criticism is not without substance, for it is
+indeed a simple matter to add “implemented by computer” to almost any otherwise
+abstract concept. The solution, however, lies not with Sectioh 101 but with the
+other statutory requirements for patentability.
+
+Section 101, as the Supreme Court reminded in Dichr, 15 onl_y one
+doorway of several throuzh which a claimed invention must pass on 112 way 10 a
+patent. It is “a general statement of the type of subject matter that is eligible for
+patent protection,” subject (o the other requirements of the statute. 450 U.S. at
+189. The bedrock principle that a couri should not read into a statute limitations
+that Congress did not adupt is of particular relevance to Section 101, for both its
+text and its legislative history make clear that Congress intended a broad scope.
+See Dichi, 450 पा. 5. व 182; Chakrabariy, 447 U.S. at 315. Indeed, much of the
+confusion in this area can likely be traced to the understandable desire to block
+
+unwarranted patents at the very first statutory threshold.
+
+24
+
+
+Amici respectfully submit that preventing the l.SS"l.lcl"l]CC' of unwarranted
+patents is best achieved 00 by adding (0 Section 101 requirements not found in
+that general statute, but rather by rigorously enforcing the more specific
+requirements of Sections 102, 103, and 112 — novelty, nonobviousness,
+definiteness, written description, and enablement.
+
+This Court reached just this conclusion in In re Comiskey. Several of
+the claims at issue there recited sieps that involved no apparatus and no
+transformation of physical subject matier, while others explicitly required the use
+of a computer or other apparatus. 499 F.3d at 1376-78. The Court held that the
+former merely reflected mental processes, i.c., abstract concepts, and thus did not
+satisfy Section 101. Id. at 1375. The claims requiring the use of an apparatus,
+however, were different because “[w]hen an unpatentable mental process 15
+combined with a machine, the combination may produce patentable subject
+matier.” Id. at 1379. The Court reached this conclusion even though these claims
+included only general language requiring the use of “the Internet, intranet, World
+Wide Web, ... or other communication means.” Id. at 1369-70. The Court noted
+that the “routine addition of modern electronics (0 an otherwise unpatentable
+invention typically creates a prima facie case of obviousness,” but determined that
+
+this was a Section 103, not Section 101, issue. Id. at 1380.
+
+25
+
+
+Section 112 is another (001 for ensuring that claims that merely add
+general recitations of structure to otherwise unpatentable subject matter do not
+mature into issued patents. Indeed, this Court has particular experience in applying
+Section 112 to claims that call for the use of c-:»mpute-r devices, particularly claims
+in means-plus-function or step-plus-function form. In such cases, “this court has
+consistently required that the structure described in पार specification be more than
+simply a general purpose computer or microprocessor.” Aristocral Techs., slip op.
+at 7. Instead, Section 112 requires that such claims be supported by disclosure of
+specific structure or specific steps that will preduce the claimed result, not merely
+by a general reference to a computer or microprocessor, as in Comiskey. See, e.q.,
+id., slip op. at 7-12; Harris Corp. v. Ericsson Inc., 417 F.3d 1241, 1249 (Fed. Cir.
+2005); WMS Gaming Inc. v. Int’l Game Tech., 184 F.3d 1339, 1349 (Fed. Cir.
+1999), If the specification fails to provide this disclosure, the claim is invalid. See
+Aristocrat Techs., slip op. at 4, 7-16 (disclosure of “a standard microprocessor-
+based gaming machine with ‘appropriate programminz’” is not sufficient); sec also
+Tehrani v. Hamilton Med., Inc., 331 F.3d 1355, 1362 (Fed. Cir. 2003); WMS
+Gaming, 184 F.3d at 1358.
+
+Amici submit that concerns with overly broad or vague “machine-
+implemented” claims घाट best addressed by enforcing Section 112 as applied in
+
+(-y .
+
+these decisions, and Section 103 as suggested in Comiskey. To use Section 101 लि
+
+26
+
+
+this purpose distorts its language and purpose, and produces uncertainty
+concerning its proper scope. Congress has provided the tools necessary to prevent
+abuse of the patent system, and those (0015 are, as the Supreme Court explained in
+Diehr, the “specific conditions for patentability” of Sections 102, 103, and 112
+450 U.S. at 189.
+
+पा. ANSWERS TO THE COURT’S SPECIFIC QUESTIONS.
+
+Based on this analysis, Amici’s answers to the Court’s specific
+questions can be briefly stated:
+
+1. Whether Claim 1 of the Bilski applicaiion claims patent-clizible
+subjeci maiter under Seciion 1017: No. As “a method of managing the
+consumption 51: costs associated with a commodity sold at a fixed price for 8
+given period,” Claim 1°s process does not effect a transformation of physical
+subject matter, nor is it tied to a speci-ﬁc apparatus. Therefore, it falls outside the
+scope of Secti.on 101.
+
+2. Whai standard should govern in determining whether a process
+is patent-eligible subject malter under Section 1017: As Benson, Flook, and Dichr
+malze clear, and as this Court observed in Alappar लि maost recently, Comiskey
+process, for purposes of Section 101, must be physical — that is, it muat be tied (0
+particular apparaius or effect a ransformation of physical subject matter — and it
+
+must produce eful, concrete and tangible result
+
+27
+
+
+o]
+
+3.a. Wheiher हर claimed subject matter is not pateni-eligible
+because it constituies an absiraci idea or mental process?: 1t is not patent-eligible
+because it 15 not 8 process under Section 101 — it neither transforms physical
+subject matter, nor 15 it tied (0 a specific apparatus. A “process” that lacks such a
+physical foundation is an unpatentable abstract concept.
+
+3.b. When does a claim that contains both mental and physical steps
+create paient-elizible subject matter?: A process claim is eligible for patent
+protection when the claimed process as a whole physically transforms physical
+subject matter or 15 tied (0 specific machines, and फिट result of the process 15 useful,
+concrete and tangible.
+
+4. Wheiher a process musi result in a physical transformation of
+an article or be tied io a machine (o be pateni-eligible subject maiter under Section
+1017 Patentability under Section 101 requires that a claimed invention be
+physical. Machines, manufactures, and compositions of matter are inherently
+physical; a “process,” literally defined, is not. The Supreme Court has made clear,
+however, that the requirement that a patent-eligible invention be physical also
+applies (0 processes. Although other means एव demonstrating that a process 15
+physical in character are not foreclosed, the only means recognized thus far by the
+Supreme Court are that a process result in a transformation of the physical
+
+properties of specific physical subject matter or be tied to a specific apparatus.
+
+28
+
+
+5. Whether it is appropriate दि reconsider the State Strect Bank
+and AT&T v. Excel decisions, and if so, whether those cases should be averruled in
+any respeci: The outcome in both cases is consistent with the correct standard for
+patentability, so neither case need be overruled. Both cases, however, contain
+language that can be, and has been, read to relax patentability standards beyond
+what can be justified consisteni with Supreme Court precedent — in particular, the
+“useful, concrete and tangible” result formulation. घर Street, 149 F.3d at 1375-
+76; Excel, 172 F'.3d at 1355. The रा banc Court should make clear that this 15 not
+an independent patentability standard bui rather is only a part of the Section 101
+inquiry.
+
+CONCLUSION
+
+Amici Curiae respectfully submit that the Court should embrace the
+following principles to determine whether process inventions qualify as patent-
+eligible subject matter under Section 101: |
+
+= A paient-eligible process must be physical in nature —
+
+e.z., it must be tied to a specific apparatus or effect a
+physical transformation of physical subject matter.
+
+. Physical subject matter includes electrical and
+electromagnetic signals.
+
+. The result or product of such a physical process must be
+useful, concrete and tangible. However, such a result is
+not itself sufficient for patentability. A patent-eligible
+process must bath be physical in nature and must produce
+a useful, concrete and tangible result.
+
+29
+
+
+Amici submit that this standard properly implements Section 101 as a broad, but
+
+not unlimited, patentability threshold, and will enable the PTO, the cowrts, and the
+
+bar to determine whether Section 101 has been satisfied in a particular case,
+
+whatever पट form एव the claimed invention, the technology employed, or the field
+
+of endeavor.
+
+Dated: April 7, 2008.
+
+Respectfully submitted,
+
+Carter G. Phillips
+Jeffrey P. Kushan
+SIDLEY AUSTIN LLP
+1501 K Street, N.W.
+Washington, D.C. 20005
+(202) 736-8000
+
+Constantine L. Trela, Jr.
+Richard A. Cederoth
+SIDLEY AUSTIN LLP
+One South Dearborn Street
+Chicago, IL 60603
+
+(312) 853-7000
+
+Counsel for Amici Curiae
+
+30
+
+
+CERTIFICATE OF COMPLIANCE WITH
+FRAP 29(d) AND 32(a)(7)(B)
+
+Counsel for Amici certifies that the body of this brief, beginning with
+the Statement of Interest एव Amici Curiac on pagze 1 and ending with the last line of
+the “Conclusion” on page 30, contains 6,972 words, as measurad by the word-
+processing system used to prepare this brief, in compliance भाप) Federal Rules of
+
+Appellate Procedure 29(d) and 32(a)(7)(B).
+
+Constantine L. Trela, Jr.
+Counsel for Amici Curiae
+
+
+CERTIFICATE OF SERVICE
+
+I hereby certify that on the 7th day of April 2008, two copies of the
+foregoing Brief of Amici Curiae were served upon:
+
+David C. Hanson
+
+The Webb Law Firm
+700 Koppers Building
+436 Seventh Avenue
+Pittsburgh, PA 15219
+
+Stephen Walsh
+
+Office of the Solicitor
+
+U.S. Patent & Trademark Office
+P.O. Box 15667
+
+Arlington, VA 22215
+
+Denise W. DeFranco
+
+Finnegan, Henderson, Farabow
+55 Cambridge Parkway, 7th Floor
+Cambridge, MA 02142
+
+by delivery of said copies, properly addressed with shipping charges prepaid, to a
+commercial overnight delivery service with instructions to deliver said copies to
+the addressees the next business day.
+
+I further ceriify that on the 7th day of April 2008, the original and
+thirty (30) copies of the foregoing Brief of Amici Curiae were filed with the Court
+as follow:
+
+Clerk
+
+U.S. Court of Appeals for the Federal Circuit
+717 Madison Place, N.W.
+
+Washington, D.C. 20439
+
+
+by delivery of दांत copies, properly addressed with shipping charges prepaid, to a
+commercial overnight delivery service with instructions to deliver said copies to
+the addressee the next business day.
+
+Constantine L. Trela, Jr.
+Counsel for Amici Curiae
+
+CH1 4234421v.1
