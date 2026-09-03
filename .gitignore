@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+data/cache/
+data/indices/
+data/analyses/
+knowledge_base/**/*.pdf
+*.egg-info/
+.pytest_cache/

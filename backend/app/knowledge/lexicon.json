@@ -1,0 +1,191 @@
+{
+  "_comment": "AYUR-IP domain lexicon. Botanical identifications are standard, publicly verifiable taxonomy. Fields that would require an authoritative notification to fill truthfully (e.g. normally-traded-commodity status under BDA s.40) are left absent rather than guessed.",
+  "herbs": [
+    {
+      "canonical": "Ashwagandha",
+      "botanical": "Withania somnifera",
+      "synonyms": ["ashwagandha", "ashwagandha root", "withania somnifera", "withania", "indian ginseng", "winter cherry", "asgandh", "asgandha"],
+      "kind": "PLANT"
+    },
+    {
+      "canonical": "Tulsi",
+      "botanical": "Ocimum tenuiflorum",
+      "synonyms": ["tulsi", "tulasi", "holy basil", "ocimum sanctum", "ocimum tenuiflorum"],
+      "kind": "PLANT"
+    },
+    {
+      "canonical": "Turmeric",
+      "botanical": "Curcuma longa",
+      "synonyms": ["turmeric", "haldi", "haridra", "curcuma longa", "curcumin"],
+      "kind": "PLANT"
+    },
+    {
+      "canonical": "Neem",
+      "botanical": "Azadirachta indica",
+      "synonyms": ["neem", "nimba", "azadirachta indica", "margosa"],
+      "kind": "PLANT"
+    },
+    {
+      "canonical": "Brahmi",
+      "botanical": "Bacopa monnieri",
+      "synonyms": ["brahmi", "bacopa", "bacopa monnieri", "water hyssop"],
+      "kind": "PLANT"
+    },
+    {
+      "canonical": "Amla",
+      "botanical": "Phyllanthus emblica",
+      "synonyms": ["amla", "amalaki", "indian gooseberry", "phyllanthus emblica", "emblica officinalis"],
+      "kind": "PLANT"
+    },
+    {
+      "canonical": "Guduchi",
+      "botanical": "Tinospora cordifolia",
+      "synonyms": ["guduchi", "giloy", "giloe", "tinospora cordifolia", "amrita"],
+      "kind": "PLANT"
+    },
+    {
+      "canonical": "Shatavari",
+      "botanical": "Asparagus racemosus",
+      "synonyms": ["shatavari", "asparagus racemosus", "shatawari"],
+      "kind": "PLANT"
+    },
+    {
+      "canonical": "Haritaki",
+      "botanical": "Terminalia chebula",
+      "synonyms": ["haritaki", "harad", "terminalia chebula", "chebulic myrobalan"],
+      "kind": "PLANT"
+    },
+    {
+      "canonical": "Bibhitaki",
+      "botanical": "Terminalia bellirica",
+      "synonyms": ["bibhitaki", "baheda", "bahera", "terminalia bellirica"],
+      "kind": "PLANT"
+    },
+    {
+      "canonical": "Arjuna",
+      "botanical": "Terminalia arjuna",
+      "synonyms": ["arjuna", "arjun bark", "terminalia arjuna"],
+      "kind": "PLANT"
+    },
+    {
+      "canonical": "Jatamansi",
+      "botanical": "Nardostachys jatamansi",
+      "synonyms": ["jatamansi", "spikenard", "nardostachys jatamansi"],
+      "kind": "PLANT"
+    },
+    {
+      "canonical": "Guggul",
+      "botanical": "Commiphora wightii",
+      "synonyms": ["guggul", "guggulu", "commiphora wightii", "commiphora mukul", "indian bdellium"],
+      "kind": "PLANT"
+    },
+    {
+      "canonical": "Licorice",
+      "botanical": "Glycyrrhiza glabra",
+      "synonyms": ["licorice", "liquorice", "mulethi", "yashtimadhu", "glycyrrhiza glabra"],
+      "kind": "PLANT"
+    },
+    {
+      "canonical": "Pippali",
+      "botanical": "Piper longum",
+      "synonyms": ["pippali", "long pepper", "piper longum"],
+      "kind": "PLANT"
+    },
+    {
+      "canonical": "Black pepper",
+      "botanical": "Piper nigrum",
+      "synonyms": ["black pepper", "maricha", "piper nigrum", "piperine"],
+      "kind": "PLANT"
+    },
+    {
+      "canonical": "Ginger",
+      "botanical": "Zingiber officinale",
+      "synonyms": ["ginger", "adrak", "shunthi", "sunthi", "zingiber officinale", "dry ginger"],
+      "kind": "PLANT"
+    },
+    {
+      "canonical": "Shankhpushpi",
+      "botanical": "Convolvulus prostratus",
+      "synonyms": ["shankhpushpi", "shankhapushpi", "convolvulus prostratus", "convolvulus pluricaulis"],
+      "kind": "PLANT"
+    },
+    {
+      "canonical": "Bhringraj",
+      "botanical": "Eclipta prostrata",
+      "synonyms": ["bhringraj", "bhringaraja", "eclipta prostrata", "eclipta alba", "false daisy"],
+      "kind": "PLANT"
+    },
+    {
+      "canonical": "Safed Musli",
+      "botanical": "Chlorophytum borivilianum",
+      "synonyms": ["safed musli", "chlorophytum borivilianum", "white musli"],
+      "kind": "PLANT"
+    },
+    {
+      "canonical": "Shilajit",
+      "botanical": null,
+      "synonyms": ["shilajit", "shilajeet", "mumijo", "mineral pitch"],
+      "kind": "MINERAL"
+    },
+    {
+      "canonical": "Sarpagandha",
+      "botanical": "Rauvolfia serpentina",
+      "synonyms": ["sarpagandha", "rauvolfia serpentina", "rauwolfia", "indian snakeroot"],
+      "kind": "PLANT"
+    }
+  ],
+  "classical_formulations": [
+    {"canonical": "Ashwagandharishta", "synonyms": ["ashwagandharishta", "ashwagandharishtam"]},
+    {"canonical": "Chyawanprash", "synonyms": ["chyawanprash", "chyavanaprash", "chyawanprasha"]},
+    {"canonical": "Triphala", "synonyms": ["triphala", "triphala churna"]},
+    {"canonical": "Dashmularishta", "synonyms": ["dashmularishta", "dashamularishta"]},
+    {"canonical": "Sitopaladi Churna", "synonyms": ["sitopaladi churna", "sitopaladi"]},
+    {"canonical": "Yograj Guggulu", "synonyms": ["yograj guggulu", "yogaraja guggulu"]}
+  ],
+  "processes": [
+    {"canonical": "water extraction", "synonyms": ["water extraction", "aqueous extraction", "decoction", "kwatha", "kashaya"], "novelty": "TRADITIONAL"},
+    {"canonical": "hydroalcoholic extraction", "synonyms": ["hydroalcoholic extraction", "hydro-alcoholic extraction", "ethanolic extraction", "alcohol extraction"], "novelty": "MODERN"},
+    {"canonical": "supercritical CO2 extraction", "synonyms": ["supercritical co2", "supercritical carbon dioxide", "scfe", "co2 extraction"], "novelty": "MODERN"},
+    {"canonical": "standardized extract", "synonyms": ["standardized extract", "standardised extract", "standardized to", "standardised to"], "novelty": "MODERN"},
+    {"canonical": "modified extraction process", "synonyms": ["modified extraction", "novel extraction", "proprietary extraction", "improved extraction", "new extraction process", "modified process", "novel process", "proprietary process"], "novelty": "CLAIMED_NOVEL"},
+    {"canonical": "nanoformulation", "synonyms": ["nanoformulation", "nanoparticle", "nano-encapsulation", "nanoemulsion", "liposomal"], "novelty": "CLAIMED_NOVEL"},
+    {"canonical": "fermentation (arishta/asava)", "synonyms": ["fermentation", "fermented", "arishta", "asava", "sandhana"], "novelty": "TRADITIONAL"},
+    {"canonical": "bhasma (calcination)", "synonyms": ["bhasma", "calcination", "calcined", "marana"], "novelty": "TRADITIONAL"},
+    {"canonical": "churna (powdering)", "synonyms": ["churna", "powdered", "powder form", "grinding"], "novelty": "TRADITIONAL"},
+    {"canonical": "taila (medicated oil)", "synonyms": ["taila", "medicated oil", "oil preparation"], "novelty": "TRADITIONAL"}
+  ],
+  "claims": [
+    {"canonical": "stress management", "synonyms": ["stress management", "stress relief", "anti-stress", "stress reduction", "adaptogen", "adaptogenic", "anxiety relief", "calming"], "claim_class": "WELLNESS"},
+    {"canonical": "immunity support", "synonyms": ["immunity", "immune support", "immunity booster", "immunomodulator", "immunomodulatory"], "claim_class": "WELLNESS"},
+    {"canonical": "sleep support", "synonyms": ["sleep support", "better sleep", "insomnia relief", "sleep aid", "nidra"], "claim_class": "WELLNESS"},
+    {"canonical": "digestive health", "synonyms": ["digestion", "digestive health", "gut health", "deepana", "pachana", "carminative"], "claim_class": "WELLNESS"},
+    {"canonical": "energy and vitality", "synonyms": ["energy", "vitality", "stamina", "strength", "rejuvenation", "rasayana", "balya"], "claim_class": "WELLNESS"},
+    {"canonical": "joint health", "synonyms": ["joint pain", "joint health", "arthritis relief", "anti-inflammatory", "sandhi"], "claim_class": "THERAPEUTIC"},
+    {"canonical": "skin health", "synonyms": ["skin health", "skin care", "complexion", "varnya", "anti-acne"], "claim_class": "COSMETIC"},
+    {"canonical": "hair health", "synonyms": ["hair health", "hair growth", "hair fall", "keshya"], "claim_class": "COSMETIC"},
+    {"canonical": "cognitive support", "synonyms": ["memory", "cognition", "cognitive support", "brain health", "medhya", "concentration", "focus"], "claim_class": "WELLNESS"},
+    {"canonical": "blood sugar management", "synonyms": ["blood sugar", "diabetes management", "glycemic", "antidiabetic", "madhumeha"], "claim_class": "THERAPEUTIC"},
+    {"canonical": "cardiac support", "synonyms": ["heart health", "cardiac support", "cardioprotective", "hridya"], "claim_class": "THERAPEUTIC"}
+  ],
+  "dosage_forms": [
+    {"canonical": "churna (powder)", "synonyms": ["churna", "powder"]},
+    {"canonical": "vati/gutika (tablet)", "synonyms": ["vati", "gutika", "tablet", "tablets"]},
+    {"canonical": "capsule", "synonyms": ["capsule", "capsules", "softgel"]},
+    {"canonical": "syrup", "synonyms": ["syrup", "liquid tonic", "tonic"]},
+    {"canonical": "arishta/asava (fermented)", "synonyms": ["arishta", "asava"]},
+    {"canonical": "taila (oil)", "synonyms": ["taila", "oil"]},
+    {"canonical": "lehya (electuary)", "synonyms": ["lehya", "lehyam", "avaleha", "paste"]},
+    {"canonical": "bhasma", "synonyms": ["bhasma"]},
+    {"canonical": "kwatha (decoction)", "synonyms": ["kwatha", "kashaya", "decoction"]},
+    {"canonical": "extract", "synonyms": ["extract", "extracts"]}
+  ],
+  "markets": [
+    {"canonical": "India", "synonyms": ["india", "indian market", "domestic"]},
+    {"canonical": "United States", "synonyms": ["usa", "us", "united states", "america"]},
+    {"canonical": "European Union", "synonyms": ["eu", "europe", "european union"]},
+    {"canonical": "United Kingdom", "synonyms": ["uk", "united kingdom", "britain"]},
+    {"canonical": "Japan", "synonyms": ["japan"]},
+    {"canonical": "Australia", "synonyms": ["australia"]},
+    {"canonical": "Middle East", "synonyms": ["middle east", "uae", "gulf", "gcc"]}
+  ]
+}

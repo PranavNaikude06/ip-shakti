@@ -1,0 +1,166 @@
+{
+  "description": "Retrieval gold set for AYUR-IP. Every expected provision was verified to exist in the ingested corpus (data/processed/chunks.jsonl) before being written here. Questions mix paraphrase, exact-citation, domain terminology and Ayurveda-specific phrasing so the evaluation exercises both the dense and lexical retrievers.",
+  "corpus_verified_against": "data/processed/chunks.jsonl",
+  "questions": [
+    {
+      "id": "Q01",
+      "question": "Which provision excludes traditional knowledge from being patented?",
+      "type": "paraphrase",
+      "expected_document": "PAT-ACT-1970",
+      "expected_section": "3",
+      "expected_subsection": "p"
+    },
+    {
+      "id": "Q02",
+      "question": "Section 3(p)",
+      "type": "exact_citation",
+      "expected_document": "PAT-ACT-1970",
+      "expected_section": "3",
+      "expected_subsection": "p"
+    },
+    {
+      "id": "Q03",
+      "question": "Is a substance obtained by mere admixture resulting only in aggregation of properties patentable?",
+      "type": "paraphrase",
+      "expected_document": "PAT-ACT-1970",
+      "expected_section": "3",
+      "expected_subsection": "e"
+    },
+    {
+      "id": "Q04",
+      "question": "Are plants and animals or essentially biological processes patentable inventions?",
+      "type": "paraphrase",
+      "expected_document": "PAT-ACT-1970",
+      "expected_section": "3",
+      "expected_subsection": "j"
+    },
+    {
+      "id": "Q05",
+      "question": "mere discovery of a new form of a known substance without enhancement of known efficacy",
+      "type": "legal_terminology",
+      "expected_document": "PAT-ACT-1970",
+      "expected_section": "3",
+      "expected_subsection": "d"
+    },
+    {
+      "id": "Q06",
+      "question": "Do I need approval before applying for intellectual property rights based on a biological resource from India?",
+      "type": "paraphrase",
+      "expected_document": "BDA-ACT-2002",
+      "expected_section": "6",
+      "expected_subsection": null
+    },
+    {
+      "id": "Q07",
+      "question": "Which persons must not undertake biodiversity related activities without approval of the National Biodiversity Authority?",
+      "type": "paraphrase",
+      "expected_document": "BDA-ACT-2002",
+      "expected_section": "3",
+      "expected_subsection": null
+    },
+    {
+      "id": "Q08",
+      "question": "fair and equitable benefit sharing determination",
+      "type": "legal_terminology",
+      "expected_document": "BDA-ACT-2002",
+      "expected_section": "21",
+      "expected_subsection": null
+    },
+    {
+      "id": "Q09",
+      "question": "prior intimation to the State Biodiversity Board before accessing a biological resource",
+      "type": "legal_terminology",
+      "expected_document": "BDA-ACT-2002",
+      "expected_section": "7",
+      "expected_subsection": null
+    },
+    {
+      "id": "Q10",
+      "question": "approval by National Biodiversity Authority for undertaking certain activities",
+      "type": "legal_terminology",
+      "expected_document": "BDA-ACT-2002",
+      "expected_section": "19",
+      "expected_subsection": null
+    },
+    {
+      "id": "Q11",
+      "question": "transfer of results of research relating to biological resources",
+      "type": "legal_terminology",
+      "expected_document": "BDA-ACT-2002",
+      "expected_section": "20",
+      "expected_subsection": null
+    },
+    {
+      "id": "Q12",
+      "question": "Which cases are exempt from the Biological Diversity Act?",
+      "type": "paraphrase",
+      "expected_document": "BDA-ACT-2002",
+      "expected_section": "40",
+      "expected_subsection": null
+    },
+    {
+      "id": "Q13",
+      "question": "prohibition of manufacture and sale of certain Ayurvedic Siddha and Unani drugs",
+      "type": "domain_terminology",
+      "expected_document": "DCA-ACT-1940",
+      "expected_section": "33EEC",
+      "expected_subsection": null
+    },
+    {
+      "id": "Q14",
+      "question": "What is a misbranded Ayurvedic drug?",
+      "type": "paraphrase",
+      "expected_document": "DCA-ACT-1940",
+      "expected_section": "33E",
+      "expected_subsection": null
+    },
+    {
+      "id": "Q15",
+      "question": "spurious Ayurvedic Siddha or Unani drug",
+      "type": "domain_terminology",
+      "expected_document": "DCA-ACT-1940",
+      "expected_section": "33EEA",
+      "expected_subsection": null
+    },
+    {
+      "id": "Q16",
+      "question": "Ayurvedic and Unani Drugs Technical Advisory Board",
+      "type": "domain_terminology",
+      "expected_document": "DCA-ACT-1940",
+      "expected_section": "33C",
+      "expected_subsection": null
+    },
+    {
+      "id": "Q17",
+      "question": "Ayurvedic Siddha and Unani Drugs Consultative Committee",
+      "type": "domain_terminology",
+      "expected_document": "DCA-ACT-1940",
+      "expected_section": "33D",
+      "expected_subsection": null
+    },
+    {
+      "id": "Q18",
+      "question": "Section 6 of the Biological Diversity Act",
+      "type": "exact_citation",
+      "expected_document": "BDA-ACT-2002",
+      "expected_section": "6",
+      "expected_subsection": null
+    },
+    {
+      "id": "Q19",
+      "question": "an invention which is frivolous or contrary to well established natural laws",
+      "type": "legal_terminology",
+      "expected_document": "PAT-ACT-1970",
+      "expected_section": "3",
+      "expected_subsection": "a"
+    },
+    {
+      "id": "Q20",
+      "question": "process for medicinal curative prophylactic or therapeutic treatment of human beings",
+      "type": "legal_terminology",
+      "expected_document": "PAT-ACT-1970",
+      "expected_section": "3",
+      "expected_subsection": "i"
+    }
+  ]
+}

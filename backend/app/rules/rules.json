@@ -1,0 +1,160 @@
+{
+  "_comment": "AYUR-IP deterministic rule pack. Each rule names the facts that trigger it and the statutory provisions that anchor it. Anchors are resolved against the ingested corpus by structured metadata (document_id + section + subsection), never by text search. A rule whose anchors cannot all be resolved reports INSUFFICIENT_EVIDENCE instead of asserting a finding. Statements are deliberately phrased as review flags, not legal conclusions.",
+  "rules": [
+    {
+      "rule_id": "PAT-TK-EXCLUSION",
+      "framework": "PATENT",
+      "title": "Traditional knowledge patent exclusion",
+      "condition": {
+        "all": ["traditional_herb_detected"],
+        "any": ["claimed_novel_process", "source_traditional"]
+      },
+      "anchors": [
+        {"document_id": "PAT-ACT-1970", "section": "3", "subsection": "p"}
+      ],
+      "statement": "The product is based on a traditionally known herb. A patent claim that in effect covers traditional knowledge, or an aggregation or duplication of known properties of traditionally known components, may fall within the Section 3(p) exclusion.",
+      "reason": "Lexicon-confirmed traditional herb combined with a claimed novel process or declared traditional source.",
+      "recommended_action": "Conduct a prior-art search covering traditional knowledge documentation before drafting claims, and focus any patent claims on the genuinely new technical contribution rather than the herb or its known properties.",
+      "severity": "SIGNIFICANT"
+    },
+    {
+      "rule_id": "PAT-ADMIXTURE",
+      "framework": "PATENT",
+      "title": "Mere admixture exclusion for combination products",
+      "condition": {
+        "all": ["multi_ingredient_formulation"]
+      },
+      "anchors": [
+        {"document_id": "PAT-ACT-1970", "section": "3", "subsection": "e"}
+      ],
+      "statement": "For a multi-ingredient formulation, a substance obtained by mere admixture resulting only in the aggregation of the properties of its components is excluded from patentability under Section 3(e).",
+      "reason": "More than one ingredient detected in the formulation.",
+      "recommended_action": "If patent protection is sought for the combination, document evidence of a synergistic or non-obvious combined effect rather than an aggregation of known individual effects.",
+      "severity": "ATTENTION"
+    },
+    {
+      "rule_id": "PAT-NEW-FORM",
+      "framework": "PATENT",
+      "title": "New form of a known substance",
+      "condition": {
+        "all": ["claimed_novel_process", "extract_based"]
+      },
+      "anchors": [
+        {"document_id": "PAT-ACT-1970", "section": "3", "subsection": "d"}
+      ],
+      "statement": "An extract or new form of a known substance is excluded under Section 3(d) unless it results in enhancement of the known efficacy of that substance. A modified extraction process yielding an extract of a known herb may attract this analysis.",
+      "reason": "Claimed novel process combined with an extract-based product form.",
+      "recommended_action": "Assess whether comparative efficacy data exists or can be generated to distinguish the new form from the known substance.",
+      "severity": "ATTENTION"
+    },
+    {
+      "rule_id": "PAT-METHOD-TREATMENT",
+      "framework": "PATENT",
+      "title": "Method of treatment exclusion",
+      "condition": {
+        "all": ["therapeutic_claim"]
+      },
+      "anchors": [
+        {"document_id": "PAT-ACT-1970", "section": "3", "subsection": "i"}
+      ],
+      "statement": "Processes for the medicinal, curative, prophylactic, diagnostic or therapeutic treatment of human beings are not patentable under Section 3(i). Claims framed as treatment methods would be excluded; product or process claims may remain available.",
+      "reason": "A therapeutic-class claim was detected.",
+      "recommended_action": "Frame any patent strategy around product or preparation-process claims rather than treatment-method claims.",
+      "severity": "ATTENTION"
+    },
+    {
+      "rule_id": "BDA-IPR-APPROVAL",
+      "framework": "BIODIVERSITY_ABS",
+      "title": "NBA approval before IP application based on Indian biological resource",
+      "condition": {
+        "all": ["biological_resource_detected"],
+        "any": ["claimed_novel_process", "wellness_claim", "therapeutic_claim", "cosmetic_claim"]
+      },
+      "anchors": [
+        {"document_id": "BDA-ACT-2002", "section": "6", "subsection": "1"}
+      ],
+      "statement": "Section 6 restricts applying for intellectual property rights for an invention based on research or information on a biological resource obtained from India without the approval of the National Biodiversity Authority. This obligation sits upstream of any patent filing strategy.",
+      "reason": "A biological resource is used and the product context indicates potential IP or commercial development.",
+      "recommended_action": "Before filing any IP application, determine whether Section 6 approval from the National Biodiversity Authority is required for this invention and obtain it if so.",
+      "severity": "SIGNIFICANT"
+    },
+    {
+      "rule_id": "BDA-ACCESS-INTIMATION",
+      "framework": "BIODIVERSITY_ABS",
+      "title": "Access obligations for commercial utilisation",
+      "condition": {
+        "all": ["biological_resource_detected"]
+      },
+      "anchors": [
+        {"document_id": "BDA-ACT-2002", "section": "7"},
+        {"document_id": "BDA-ACT-2002", "section": "3", "subsection": "1"}
+      ],
+      "statement": "Accessing a biological resource for commercial utilisation can require prior intimation to the State Biodiversity Board (Section 7), and persons covered by Section 3 require National Biodiversity Authority approval. Section 7 carves out exemptions, including for cultivated medicinal plants and codified traditional knowledge, so the applicable obligation depends on the sourcing and the entity's status.",
+      "reason": "A biological resource is used; the entity's status (Indian/foreign, practitioner exemptions) and sourcing (wild vs cultivated) are not determinable from the intake.",
+      "recommended_action": "Determine the sourcing of the biological resource (wild-collected vs cultivated) and the legal status of the applying entity, then identify which access obligation, if any, applies.",
+      "severity": "ATTENTION"
+    },
+    {
+      "rule_id": "BDA-BENEFIT-SHARING",
+      "framework": "BIODIVERSITY_ABS",
+      "title": "Benefit-sharing obligations",
+      "condition": {
+        "all": ["biological_resource_detected"],
+        "any": ["claimed_novel_process", "wellness_claim", "therapeutic_claim"]
+      },
+      "anchors": [
+        {"document_id": "BDA-ACT-2002", "section": "21"}
+      ],
+      "statement": "Where approvals under the Act are granted, the National Biodiversity Authority determines fair and equitable benefit sharing arising out of the use of accessed biological resources and associated knowledge (Section 21). Commercialisation plans should account for potential benefit-sharing terms.",
+      "reason": "A biological resource is used in a product with commercial intent.",
+      "recommended_action": "Factor potential benefit-sharing obligations into the commercialisation plan and review Section 21 terms if an NBA approval becomes necessary.",
+      "severity": "ATTENTION"
+    },
+    {
+      "rule_id": "REG-ASU-PATHWAY",
+      "framework": "REGULATORY",
+      "title": "Ayurvedic drug regulatory pathway",
+      "condition": {
+        "any": ["source_traditional", "classical_formulation_named"]
+      },
+      "anchors": [
+        {"document_id": "DCA-ACT-1940", "section": "3"},
+        {"document_id": "DCA-ACT-1940", "section": "33EEC"}
+      ],
+      "statement": "The product context indicates an Ayurvedic drug within the meaning of the Drugs and Cosmetics Act definitions (Section 3), whose manufacture and sale are regulated, including prohibitions notifiable under Section 33EEC. A licensing pathway under the Act's ASU chapter applies before market entry in India.",
+      "reason": "Declared traditional source or a named classical formulation.",
+      "recommended_action": "Confirm the product's classification under Section 3 (classical vs proprietary Ayurvedic medicine) and identify the applicable manufacturing/sale licence before marketing in India.",
+      "severity": "SIGNIFICANT"
+    },
+    {
+      "rule_id": "REG-MISBRANDING-RISK",
+      "framework": "REGULATORY",
+      "title": "Claim substantiation and misbranding",
+      "condition": {
+        "any": ["wellness_claim", "therapeutic_claim", "cosmetic_claim"]
+      },
+      "anchors": [
+        {"document_id": "DCA-ACT-1940", "section": "33E"}
+      ],
+      "statement": "An Ayurvedic, Siddha or Unani drug is deemed misbranded in the circumstances set out in Section 33E, which include false or misleading claims. Marketing claims for this product should be reviewed against those provisions.",
+      "reason": "One or more marketing/therapeutic claims were detected.",
+      "recommended_action": "Review each marketing claim for substantiation and consistency with the authorised indications for the product category.",
+      "severity": "ATTENTION"
+    },
+    {
+      "rule_id": "TK-DOCUMENTED-OVERLAP",
+      "framework": "TRADITIONAL_KNOWLEDGE",
+      "title": "Overlap with documented traditional knowledge",
+      "condition": {
+        "all": ["traditional_herb_detected", "source_traditional"]
+      },
+      "anchors": [
+        {"document_id": "PAT-ACT-1970", "section": "3", "subsection": "p"}
+      ],
+      "statement": "The ingredient and declared traditional source indicate probable overlap with documented traditional knowledge. Documented traditional use affects both novelty analysis and the Section 3(p) exclusion, and may be relevant to defensive protection of the underlying knowledge.",
+      "reason": "Traditional herb plus declared traditional source.",
+      "recommended_action": "Verify the extent of documented traditional use for this ingredient and preparation before asserting novelty in any IP filing.",
+      "severity": "ATTENTION"
+    }
+  ]
+}
