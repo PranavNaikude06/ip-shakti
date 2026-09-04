@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Manrope:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+@import 'tailwindcss';
+
+@theme {
+  --color-surface-page: #FBF6E9;
+  --color-surface-secondary: #F7EDE5;
+  --color-surface-card: #FDF2EC;
+  --color-surface-peach: #F3C9BD;
+  --color-border-warm: #DFC0B7;
+  --color-accent: #E9684F;
+  --color-accent-hover: #CF5A3D;
+  --color-accent-light: #FCEAE5;
+  --color-accent-border: #F0B5A8;
+  --color-critical: #A94350;
+  --color-critical-light: #FAE0DC;
+  --color-critical-border: #E8B0A8;
+  --color-text: #173F2A;
+  --color-text-muted: #4A5E51;
+  --color-text-faint: #A89590;
+  --color-primary: #173F2A;
+  --color-primary-dark: #102F20;
+  --color-primary-light: #E8EFE9;
+  --color-primary-border: #B0CBBA;
+  --color-green: #6B8F71;
+  --color-green-light: #E5EEE6;
+  --color-green-border: #B8D4BB;
+
+  /* ── Text (Deep Green hierarchy) ── */
+  --color-text:       #173F2A;   /* Primary Deep Green */
+  --color-text-muted: #4A6355;   /* Muted green-toned */
+  --color-text-faint: #7A9285;   /* Faint sage */
+
+  /* ── Positive / Safe / Sage ── */
+  --color-green:        #718A78;   /* Muted Sage */
+  --color-green-light:  #DCE8DF;   /* Sage light */
+  --color-green-border: #B8CFC0;   /* Sage border */
+
+  /* ── Primary Identity — Deep Green ── */
+  --color-green-deep: #173F2A;   /* Primary identity */
+  --color-green-dark: #102F20;   /* Darker hover */
+
+  /* ── Typography ── */
+  --font-display: 'DM Serif Display', Georgia, serif;
+  --font-body:    'Manrope', system-ui, sans-serif;
+  --font-mono:    'IBM Plex Mono', 'Courier New', monospace;
+
+  /* ── Shadows (green-tinted) ── */
+  --shadow-card:     0 1px 3px rgba(23, 63, 42, 0.07);
+  --shadow-elevated: 0 2px 10px rgba(23, 63, 42, 0.09);
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  background-color: #FBF6E9;
+  font-family: 'Manrope', system-ui, sans-serif;
+  color: #173F2A;
+  -webkit-font-smoothing: antialiased;
+}
+
+* {
+  scrollbar-width: none;
+}
+
+*::-webkit-scrollbar {
+  display: none;
+}
+
+*:hover {
+  scrollbar-width: thin;
+}
+
+*:focus-visible {
+  outline: 2px solid #E9684F;
+  outline-offset: 2px;
+}
+
+@keyframes fadeSlideUp {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+
+@keyframes bounceY {
+  0%, 100% { transform: translateY(0); }
+  50%       { transform: translateY(6px); }
+}
+
+@keyframes dropdownReveal {
+  from { opacity: 0; transform: translateY(-4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes modalReveal {
+  from { opacity: 0; transform: translateY(10px) scale(0.97); }
+  to   { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+button:not(:disabled):active {
+  transform: scale(0.98);
+  transition: transform 80ms ease-out !important;
+}
+
+.btn-interact {
+  transition: transform 160ms ease-out, box-shadow 160ms ease-out,
+              background-color 160ms ease-out, border-color 160ms ease-out,
+              color 160ms ease-out !important;
+}
+.btn-interact:hover:not(:disabled) { transform: scale(1.025) translateY(-1px); }
+.btn-interact:active:not(:disabled) { transform: scale(0.98); box-shadow: none !important; transition-duration: 80ms !important; }
+
+.btn-coral:hover:not(:disabled) { background-color: #CF5A3D !important; box-shadow: 0 4px 14px rgba(233, 104, 79, 0.25); }
+.btn-outline:hover:not(:disabled) { border-color: #CF5A3D !important; color: #CF5A3D !important; box-shadow: 0 3px 10px rgba(169, 67, 80, 0.1); }
+
+.btn-green:hover:not(:disabled) { background-color: #102F20 !important; box-shadow: 0 4px 14px rgba(23, 63, 42, 0.25); }
+.btn-outline-green:hover:not(:disabled) { border-color: #102F20 !important; color: #102F20 !important; box-shadow: 0 3px 10px rgba(23, 63, 42, 0.1); }
+
+.icon-btn { transition: color 150ms ease-out, transform 150ms ease-out !important; }
+.icon-btn:hover { color: #E9684F !important; transform: scale(1.1); }
+.icon-btn:active { transform: scale(0.92); transition-duration: 80ms !important; }
+
+.card-interactive { transition: transform 180ms ease-out, box-shadow 180ms ease-out, border-color 180ms ease-out; cursor: pointer; }
+.card-interactive:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(23, 63, 42, 0.1); border-color: #B0CBBA !important; }
+
+.link-arrow { transition: color 150ms ease-out; }
+.link-arrow:hover { color: #173F2A; }
+.link-arrow .arr { display: inline-block; transition: transform 150ms ease-out; }
+.link-arrow:hover .arr { transform: translateX(3px); }

@@ -1,13 +1,35 @@
+# Backend & Python
 __pycache__/
 *.pyc
-.env
 .venv/
 data/cache/
 data/indices/
 data/analyses/
 data/tessdata/
-*.log
 knowledge_base/**/*.pdf
 *.egg-info/
 .pytest_cache/
 data/ayurip.db
+
+# Frontend & Node
+node_modules/
+dist/
+build/
+.cache/
+.vite/
+vite.config.*.timestamp-*
+*.tsbuildinfo
+*-debug.log*
+logs/
+*.log
+.claude-replay.*
+.tmp-*
+
+# Environment variables & secrets
+.env
+.env*
+!.env.example
+
+# Platform-managed agentplat state
+/.plugins/
+/.opencode-skills/
